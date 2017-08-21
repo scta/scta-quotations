@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibleQuotesInUse>
 	<verse id="lc10_23"/>
- 
+  <verse id="sir3_1"/>
+  <verse id="sir9_11"/>
   <verse id="sir13_19"/>
   <verse id="sir3_22"/>
   
+  <verse id="qoh3_19"/>
+  <verse id="prov7_21"/>
+  <verse id="prov19_16"/>
+  <verse id="prov19_24"/>
+  <verse id="prov19_25"/>
+  <verse id="prov21_11"/>
+  <verse id="prov22_1"/>
+  <verse id="prov22_28"/>
 	<verse id="prov23_5"/>
+  <verse id="prov23_21"/>
+  <verse id="prov26_2"/>
+  <verse id="prov26_10"/>
+  <verse id="prov27_3"/>
+  <verse id="prov27_14"/>
+  <verse id="prov27_19"/>
 
 	<verse id="IIcor3_4"/>
 
 	<verse id="ex19_21"/>
 
 	<verse id="ex19_23"/>
-
+  <verse id="prov20_3"/>
+  <verse id="prov20_4"/>
+  <verse id="prov20_9"/>
+  <verse id="prov24_16"/>
+  <verse id="prov25_11"/>
 	<verse id="prov25_16"/>
 
 
@@ -28,7 +47,11 @@
 	<verse id="Icor13_3"/>
 
 	<verse id="eph5_29"/>
+  <verse id="eph5_3"/>
+  <verse id="eph5_5"/>
 	<verse id="eph5_8"/>
+  <verse id="eph5_18"/>
+  <verse id="eph5_23"/>
 	<verse id="eph3_9"/>
 	<verse id="eph3_10"/>
 
@@ -39,21 +62,29 @@
 	<verse id="Iio1_8"/>
 
 	<verse id="iac3_2"/>
+  <verse id="iac3_6"/>
+  <verse id="iac3_8"/>
+  <verse id="iac3_10"/>
+  <verse id="iac3_16"/>
 
-	<verse id="rom1_20"/>
+	
 
 
-
+  <verse id="ps31_1"/>
 	<verse id="ps38_7"/>
 
 	<verse id="gen1_1"/>
 	<verse id="gen1_5"/>
+  <verse id="gen1_11"/>
 	<verse id="gen1_12"/>
 	<verse id="gen1_14"/>
 
 	<verse id="eph4_23"/>
+  <verse id="eph4_26"/>
+  <verse id="eph4_29"/>
 
 	<verse id="io17_3"/>
+  <verse id="io17_5"/>
 
 	<verse id="sap2_1"/>
 
@@ -68,7 +99,10 @@
 	<verse id="gen1_1"/>
 
 	<verse id="Itim1_13"/>
+  <verse id="Itim5_8"/>
 	<verse id="Itim5_12"/>
+  <verse id="Itim5_13"/>
+  <verse id="Itim5_23"/>
 
 	<verse id="lc23_34"/>
 
@@ -79,37 +113,31 @@
 	<verse id="io16_3"/>
 
 	<verse id="iac2_10"/>
-
-	<verse id="rom13_10"/>
-
-	<verse id="mt22_40"/>
+  
+  
+  
 
 	<verse id="prov8_17"/>
 
 	<verse id="io14_21"/>
-
+  
+  <verse id="Icor4_1"/>
+  <verse id="Icor4_3"/>
 	<verse id="Icor4_4"/>
+  <verse id="Icor4_5"/>
+  <verse id="Icor4_7"/>
 
 	<verse id="Icor13_1"/>
 
-	<verse id="Augustine_Sermo351_2_2_a"/>
-
-	<verse id="mt28_19"/>
-
 	<verse id="iac5_14"/>
 
-	<verse id="mt28_19"/>
+	
+  
 
 
 
 	<verse id="ps50_19"/>
-
-	<verse id="rom5_20"/>
-
-
-
-	<verse id="rom1_20"/>
-
+  
 
 
 	<verse id="act10_9"/>
@@ -129,105 +157,136 @@
 
 	<verse id="hebr11_1"/>
 
-	<verse id="mt22_40"/>
+	
 
 	<verse id="cant8_5"/>
 
 
-
+ 
 	<verse id="gal5_6"/>
+  <verse id="gal5_9"/>
+  <verse id="gal5_17"/>
+  <verse id="gal5_19"/>
 
-	<verse id="rom1_17"/>
-	<verse id="rom10_17"/>
-
+	
+  
+  <verse id="mc3_28"/>
 	<verse id="mc16_16"/>
 
 	<verse id="io3_2"/>
+  <verse id="io3_29"/>
 
 	<verse id="io4_48"/>
 
 	<verse id="io9_32"/>
+  <verse id="io9_4"/>
 
 	<verse id="io15_24"/>
 
-	<verse id="mt5_18"/>
+  
 
 	<verse id="hebr11_1"/>
 
 	<verse id="io15_22"/>
 
-	<verse id="mt24_14"/>
+	
 
 	<verse id="io1_42"/>
 	
-	<verse id="mt18_10"/>
-	<verse id="mt18_16"/>
-
+	
+  <verse id="Icor11_14"/>
+  <verse id="Icor11_19"/>
 	<verse id="Icor11_22"/>
 
 	<verse id="Icor1_2"/>
 	<verse id="Icor1_7"/>
 
 
-
+  <verse id="eph5_4"/>
 	<verse id="eph5_25"/>
 
 	<verse id="act1_7"/>
-
+  <verse id="sir7_14"/>
+  <verse id="sir7_19"/>
+  <verse id="sir7_34"/>
+  <verse id="sir7_23"/>
+  <verse id="sir42_1"/>
 	<verse id="sir42_16"/>
 
 	<verse id="sir1_10"/>
+  <verse id="sir1_26"/>
+  <verse id="sir6_2"/>
 	<verse id="sir6_23"/>
-
+  <verse id="sir11_34"/>
+  <verse id="sir14_1"/>
+  <verse id="sir20_1"/>
+  <verse id="sir20_7"/>
+  <verse id="sir22_27"/>
+  <verse id="sir22_33"/>
+  
+  <verse id="lc10_30"/>
 	<verse id="lc10_36"/>
 
+  <verse id="is28_7"/>
 	<verse id="is53_7"/>
+  <verse id="is56_11"/>
 
-	<verse id="mt9_12"/>
+	
 
 	<verse id="act4_12"/>
 
 	<verse id="hebr10_4"/>
+  <verse id="hebr10_33"/>
 
 	<verse id="Icor13_3"/>
+  <verse id="Icor16_4"/>
 
 	<verse id="io15_15"/>
 
 	<verse id="hebr10_4"/>
 
-	<verse id="rom3_20"/>
+	
 
 	<verse id="io1_17"/>
 
 	<verse id="hebr9_13"/>
 
 	<verse id="gen4_3"/>
+  <verse id="gen4_13"/>
 
 	<verse id="io3_5"/>
-
+  
+  <verse id="Itim2_9"/>
 	<verse id="Itim4_5"/>
-
+  <verse id="Itim4_7"/>
+  
+  <verse id="gen22_5"/>
 	<verse id="gen22_18"/>
 
 	<verse id="gen22_18"/>
+  <verse id="gen25_30"/>
+  <verse id="gen28_20"/>
+  <verse id="gen32_30"/>
 
 
 
 	<verse id="lc2_21"/>
 
 	<verse id="gal4_4"/>
-
+  <verse id="io13_2"/>
 	<verse id="io13_15"/>
 
 	<verse id="quoh8_6"/>
+  <verse id="quoh10_11"/>
 
 	<verse id="gal5_2"/>
 
 	<verse id="gen17_10"/>
+  <verse id="gen17_14"/>
 
 	<verse id="gen17_12"/>
 
-	<verse id="rom5_12"/>
+  
 
 	<verse id="gen17_19"/>
 
@@ -236,38 +295,51 @@
 	<verse id="gen17_12"/>
 
 	<verse id="ps104_37"/>
+  
 
-	<verse id="rom2_29"/>
+  
 
-	<verse id="mt5_17"/>
-
+  <verse id="act3_17"/>
 	<verse id="act15_20"/>
 
 	<verse id="gal5_2"/>
-
-	<verse id="hebr10_1"/>
+  
+  <verse id="hebr6_1"/>
+	
+  <verse id="hebr10_1"/>
+  <verse id="hebr10_26"/>
+  <verse id="hebr10_29"/>
 
 	<verse id="gal4_9"/>
 
-	<verse id="mt11_30"/>
-
+	
+  
+  <verse id="hebr7_7"/>
+  <verse id="hebr7_12"/>
 	<verse id="hebr7_18"/>
+  <verse id="hebr7_19"/>
 
 	<verse id="gal2_11"/>
 
 	<verse id="gal2_14"/>
 
 	<verse id="ps18_5"/>
-
-	<verse id="io3_5"/>
-
+  <verse id="ps18_13"/>
+	
+  <verse id="io3_5"/>
+  <verse id="ier2_5"/>
+  <verse id="ier2_13"/>
+  <verse id="ier2_16"/>
 	<verse id="ier2_20"/>
+  <verse id="ier2_23"/>
 	<verse id="ier7_28"/>
 	
-
+  <verse id="deut4_19"/>
+  <verse id="deut5_13"/>
 	<verse id="deut15_17"/>
 
 	<verse id="ier31_31"/>
+  <verse id="ier32_23"/>
 
 	<verse id="ier31_31"/>
 
@@ -275,13 +347,16 @@
 
 	<verse id="hebr8_9"/>
 
-	<verse id="mt5_17"/>
-
+  
+	
+  <verse id="gen9_1"/>
 	<verse id="gen9_2"/>
+  <verse id="gen11_24"/>
 
 
 
-	<verse id="mt28_19"/>
+	
+  
 
 	<verse id="io20_22"/>
 
@@ -291,20 +366,30 @@
 
 	<verse id="io20_22"/>
 
-	<verse id="mt16_19"/>
+	
 
 	<verse id="iac5_14"/>
 
 	<verse id="mc6_13"/>
 
-	<verse id="mt19_4"/>
+	
 	
 	<verse id="gen2_2"/>
+  <verse id="gen2_8"/>
+  <verse id="gen2_4"/>
 	<verse id="gen2_3"/>
 	<verse id="gen2_7"/>
+  <verse id="gen2_15"/>
+  <verse id="gen2_17"/>
+  <verse id="gen2_18"/>
+  <verse id="gen2_19"/>
+  <verse id="gen2_20"/>
+  <verse id="gen2_22"/>
+  <verse id="gen2_23"/>
 	<verse id="gen2_24"/>
+  <verse id="gen2_25"/>
 
-	<verse id="mt19_6"/>
+	
 
 	<verse id="lc22_19"/>
 
@@ -314,13 +399,12 @@
 
 	<verse id="act1_5"/>
 
-	<verse id="mt3_11"/>
+
 
 	<verse id="io1_33"/>
 
-	<verse id="mt3_14"/>
 
-	<verse id="mt3_15"/>
+	
 
 	<verse id="act2_17"/>
 
@@ -331,6 +415,7 @@
 	<verse id="act19_3"/>
 
 	<verse id="act19_4"/>
+  <verse id="act20_34"/>
 
 
 
@@ -338,7 +423,7 @@
 
 	<verse id="io20_23"/>
 
-	<verse id="mt28_19"/>
+
 
 	<verse id="act1_1"/>
 
@@ -359,6 +444,9 @@
 	<verse id="hab2_11"/>
 
 	<verse id="lc7_22"/>
+  <verse id="lc7_47"/>
+  <verse id="lc9_60"/>
+  <verse id="lc9_62"/>
 
 
 	<verse id="io14_16"/>
@@ -373,18 +461,18 @@
 
 	<verse id="lc16_26"/>
 
-	<verse id="rom11_33"/>
+	
 
 	<verse id="ps2_7"/>
 
 
 
-	<verse id="mt3_17"/>
 
-	<verse id="mt3_17"/>
+
+
 
 	<verse id="lc2_49"/>
-
+  <verse id="Itim6_4"/>
 	<verse id="Itim6_16"/>
 
 	<verse id="ex15_18"/>
@@ -410,10 +498,14 @@
 	<verse id="ps84_7"/>
 
 	<verse id="cant7_10"/>
+  <verse id="cant7_11"/>
 
 	<verse id="io20_22"/>
-
+  
+  <verse id="lc6_9"/>
 	<verse id="lc6_19"/>
+  <verse id="lc6_25"/>
+  <verse id="lc6_37"/>
 
 	<verse id="io15_26"/>
 
@@ -430,18 +522,21 @@
 	<verse id="phil4_6"/>
 
 	<verse id="Icor11_28"/>
+  
+  <verse id="Icor14_38"/>
 
 	<verse id="io7_28"/>
-
+  <verse id="lc3_7"/>
 	<verse id="lc3_22"/>
 
 
 
-	<verse id="mt1_20"/>
+	
 
 	<verse id="lc1_35"/>
 
 	<verse id="act2_3"/>
+  <verse id="act23_3"/>
 
 
 
@@ -451,7 +546,7 @@
 
 	<verse id="Icor13_1"/>
 
-	<verse id="rom5_5"/>
+  
 
 	<verse id="io10_27"/>
 
@@ -461,33 +556,149 @@
 
   <verse id="zac1_14"/>
 	<verse id="zac6_1"/>
+  <verse id="ez1_8"/>
 	<verse id="ez1_12"/>
+  <verse id="ez6_49"/>
 
 	<verse id="Icor15_10"/>
 
-	<verse id="rom5_5"/>
-
+  
+  <verse id="rom1_3"/>
+  <verse id="rom1_4"/>
+  
+  <verse id="rom1_17"/>
+  <verse id="rom1_19"/>
+  <verse id="rom1_20"/>
+  <verse id="rom1_22"/>
+  <verse id="rom1_23"/>
+  <verse id="rom1_24"/>
+  <verse id="rom1_26"/>
+  <verse id="rom1_27"/>
+  <verse id="rom1_30"/>
+  <verse id="rom1_32"/>
+  <verse id="rom2_1"/>
+  <verse id="rom2_2"/>
+  <verse id="rom2_4"/>
+  <verse id="rom2_5"/>
+  <verse id="rom2_11"/>
+  <verse id="rom2_12"/>
+  <verse id="rom2_14"/>
+  <verse id="rom2_15"/>
+  <verse id="rom2_29"/>
+  <verse id="rom3_5"/>
+  <verse id="rom3_6"/>
+  <verse id="rom3_20"/>
+  <verse id="rom3_25"/>
+  <verse id="rom4_17"/>
+  <verse id="rom4_18"/>
+  <verse id="rom4_25"/>
+  <verse id="rom5_1"/>
+  <verse id="rom5_3"/>
+  <verse id="rom5_5"/>
+	<verse id="rom5_9"/>
+  <verse id="rom5_10"/>
+  <verse id="rom5_12"/>
+  <verse id="rom5_14"/>
+  <verse id="rom5_19"/>
+  <verse id="rom5_20"/>
+  <verse id="rom6_6"/>
+  <verse id="rom6_7"/>
+  <verse id="rom6_9"/>
+  <verse id="rom6_10"/>
+  <verse id="rom6_12"/>
+  <verse id="rom6_13"/>
+  <verse id="rom6_19"/>
+  <verse id="rom6_22"/>
+  <verse id="rom6_23"/>
+  <verse id="rom7_2"/>
+  <verse id="rom7_7"/>
+  <verse id="rom7_9"/>
+  <verse id="rom7_10"/>
+  <verse id="rom7_15"/>
+  <verse id="rom7_17"/>
+  <verse id="rom7_19"/>
+  <verse id="rom7_29"/>
+  <verse id="rom7_20"/>
+  <verse id="rom7_23"/>
+  <verse id="rom7_24"/>
+  <verse id="rom7_25"/>
+  <verse id="rom7_26"/>
+  <verse id="rom8_3"/>
+  <verse id="rom8_6"/>
+  <verse id="rom8_8"/>
+  <verse id="rom8_9"/>
+  <verse id="rom8_10"/>
+  <verse id="rom8_11"/>
+  <verse id="rom8_14"/>
+  <verse id="rom8_15"/>
 	<verse id="rom8_16"/>
-
-	<verse id="rom8_14"/>
-
-	<verse id="rom5_5"/>
-
+  <verse id="rom8_18"/>
+  <verse id="rom8_19"/>
+  <verse id="rom8_20"/>
+  <verse id="rom8_21"/>
+  <verse id="rom8_22"/>
+  <verse id="rom8_23"/>
+  <verse id="rom8_24"/>
+  <verse id="rom8_25"/>
 	<verse id="rom8_26"/>
+  <verse id="rom8_28"/>
+  <verse id="rom8_29"/>
+  <verse id="rom8_30"/>
+  <verse id="rom8_32"/>
+  <verse id="rom8_35"/>
+  <verse id="rom8_38"/>
+  <verse id="rom8_39"/>
+  <verse id="rom9_3"/>
+  <verse id="rom9_19"/>
+  <verse id="rom9_21"/>
+  <verse id="rom10_2"/>
+  <verse id="rom10_10"/>
+  <verse id="rom10_15"/>
+  <verse id="rom10_17"/>
+  <verse id="rom11_20"/>
+  <verse id="rom11_22"/>
+  <verse id="rom11_32"/>
+  <verse id="rom11_33"/>
+  <verse id="rom11_34"/>
+  <verse id="rom11_36"/>
+  <verse id="rom12_1"/>
+  <verse id="rom12_2"/>
+  <verse id="rom12_12"/>
+  <verse id="rom12_15"/>
+  <verse id="rom12_18"/>
+  <verse id="rom12_19"/>
+  <verse id="rom13_1"/>
+  <verse id="rom13_2"/>
+  <verse id="rom13_3"/>
+  <verse id="rom13_7"/>
+  <verse id="rom13_8"/>
+  <verse id="rom13_10"/>
+  <verse id="rom13_12"/>
+  <verse id="rom13_13"/>
+  <verse id="rom14_1"/>
+  <verse id="rom14_3"/>
+  <verse id="rom14_4"/>
+  <verse id="rom14_23"/>
+  <verse id="rom15_4"/>
+  <verse id="rom15_8"/>
+  <verse id="rom15_30"/>
 
 
 
 	<verse id="Icor15_10"/>
 
 	<verse id="sir19_1"/>
+  <verse id="sir19_26"/>
+  <verse id="sir19_27"/>
 
-	<verse id="mt24_12"/>
+	
 
 
 
 	<verse id="sir19_1"/>
 
 	<verse id="Iio3_2"/>
+  <verse id="Iio3_14"/>
 
 	<verse id="io14_23"/>
 
@@ -518,14 +729,18 @@
 
 
 	<verse id="lc1_37"/>
+  <verse id="lc17_10"/>
+  <verse id="lc17_29"/>
+  <verse id="lc17_34"/>
 
 
 	<verse id="Icor8_1"/>
 	<verse id="Icor8_3"/>
 
-	<verse id="mt25_12"/>
+
 
 	<verse id="hab1_14"/>
+  <verse id="hab1_17"/>
 
 	<verse id="rom11_36"/>
 
@@ -536,8 +751,7 @@
 
 
 	<verse id="hebr4_13"/>
-  <verse id="mt26_38"/>
-	<verse id="mt26_53"/>
+  
 
 	<verse id="io1_3"/>
 
@@ -545,10 +759,11 @@
 
 
 
-	<verse id="rom8_29"/>
+	
 
 	<verse id="eph1_5"/>
-
+  <verse id="dan4_24"/>
+  <verse id="dan10_13"/>
 	<verse id="dan12_1"/>
 	<verse id="dan7_10"/>
 	<verse id="dan3_72"/>
@@ -565,7 +780,7 @@
 
 	<verse id="io6_71"/>
 
-	<verse id="mt26_25"/>
+	
 
 	<verse id="io14_2"/>
 
@@ -578,36 +793,47 @@
 	<verse id="io15_16"/>
 
 	<verse id="eph1_4"/>
-
+  <verse id="sap4_6"/>
+  <verse id="sap5_38"/>
+  <verse id="sap7_22"/>
+  <verse id="sap7_24"/>
 	<verse id="sap7_27"/>
 
 	<verse id="lc1_37"/>
 
 	<verse id="sap11_21"/>
+  <verse id="sap14_11"/>
+  <verse id="sap14_12"/>
+  <verse id="sap14_16"/>
+  <verse id="sap14_27"/>
 
 	<verse id="rom11_36"/>
 
 	<verse id="Icor12_6"/>
 
 
+  
 
-	<verse id="rom9_19"/>
+	
+  
 
-	<verse id="rom12_2"/>
-
-	<verse id="mt25_12"/>
-
+	
+  
+  
+  <verse id="amos5_13"/>
+  <verse id="amos6_2"/>
 	<verse id="Isam8_7"/>
 
 	<verse id="Isam8_22"/>
 
 	<verse id="io11_50"/>
 
-	<verse id="Ezekiel18_32"/>
+	<verse id="ez18_32"/>
 
-	<verse id="mt23_37"/>
+	
 
 	<verse id="Itim2_4"/>
+  <verse id="Itim2_14"/>
 
 	<verse id="est13_9"/>
 
@@ -618,9 +844,13 @@
 	<verse id="Itim2_4"/>
 
 	<verse id="rom9_16"/>
-
+  <verse id="is14_11"/>
 	<verse id="is14_14"/>
-
+  <verse id="is18_2"/>
+  
+  <verse id="ez2_3"/>
+  <verse id="ez22_3"/>
+  <verse id="ez23_11"/>
 	<verse id="ez28_15"/>
 
 	<verse id="Icor13_13"/>
@@ -629,9 +859,7 @@
 
 	<verse id="Icor13_1"/>
 
-
-
-	<verse id="mt22_38"/>
+  
 
 	<verse id="Icor13_13"/>
 
@@ -640,12 +868,14 @@
 	<verse id="Icor13_7"/>
 
 	<verse id="io1_4"/>
-
+  <verse id="is33_7"/>
+  <verse id="is33_15"/>
 	<verse id="is38_1"/>
 
 
 
 	<verse id="hebr11_33"/>
+  <verse id="hebr11_35"/>
 
 	<verse id="Iio5_1"/>
 	<verse id="Iio5_17"/>
@@ -655,6 +885,7 @@
 	<verse id="io1_12"/>
 
 	<verse id="gal3_11"/>
+  <verse id="gal3_24"/>
   <verse id="gal3_19"/>
 
 	<verse id="lc7_50"/>
@@ -666,7 +897,7 @@
 	<verse id="Icor3_6"/>
 
 	<verse id="lc1_37"/>
-
+  <verse id="ps140_5"/>
 	<verse id="ps146_5"/>
 
 	<verse id="ps146_5"/>
@@ -674,30 +905,51 @@
 	<verse id="hebr11_1"/>
 
 	<verse id="hebr11_3"/>
+  <verse id="hebr11_39"/>
 
 	<verse id="gen1_1"/>
 
 	<verse id="io1_1"/>
 
 	<verse id="11_9"/>
-
+  <verse id="iob5_2"/>
+  <verse id="iob5_5"/>
+  <verse id="iob5_7"/>
+  <verse id="iob10_8"/>
+  <verse id="iob11_2"/>
+  <verse id="iob18_16"/>
+  <verse id="iob18_17"/>
+  <verse id="iob10_16"/>
 	<verse id="iob10_22"/>
+  
 
 	<verse id="tit1_2"/>
-  
+  <verse id="tit1_7"/>
+  <verse id="tob4_9"/>
+  <verse id="tob4_14"/>
+  <verse id="tob6_2"/>
   <verse id="tob12_19"/>
   
 	<verse id="io1_1"/>
 
 	<verse id="hebr11_1"/>
 
-	<verse id="mt6_21"/>
-
+	
+  
+  
+  <verse id="lev5_1"/>
+  <verse id="lev10_2"/>
+  <verse id="lev15_2"/>
+  <verse id="lev15_22"/>
+  <verse id="lev16_21"/>
 	<verse id="lev17_14"/>
+  <verse id="lev18_19"/>
+  <verse id="lev18_21"/>
 
 	<verse id="deut12_23"/>
+  <verse id="deut17_2"/>
 
-	<verse id="mt10_30"/>
+	
 
 	<verse id="lev17_11"/>
 
@@ -707,16 +959,27 @@
 
 	<verse id="act2_27"/>
 
-	<verse id="mt26_26"/>
-
+	
+  
+  <verse id="iob9_28"/>
+  <verse id="iob13_23"/>
+  <verse id="iob19_12"/>
 	<verse id="iob19_30"/>
-
+  
+  <verse id="Icor6_4"/>
+  <verse id="Icor6_6"/>
+  <verse id="Icor6_9"/>
 	<verse id="Icor6_16"/>
+  <verse id="Icor6_17"/>
+  <verse id="Icor6_18"/>
+  <verse id="Icor6_19"/>
 
-	<verse id="mt6_12"/>
+	
 
 
 	<verse id="IIcor4_4"/>
+  <verse id="IIcor4_17"/>
+  <verse id="IIcor12_12"/>
 	
 	<verse id="IItim3_16"/>
 	<verse id="IItim4_4"/>
@@ -726,6 +989,7 @@
 
 
 	<verse id="rom1_20"/>
+  <verse id="rom1_26"/>
 
 
 
@@ -736,6 +1000,7 @@
 
 
 	<verse id="gal5_22"/>
+  <verse id="gal5_26"/>
 
 	<verse id="ps104_4"/>
 
@@ -748,16 +1013,19 @@
 
 	<verse id="ex3_14"/>
 
-	<verse id="ex15:3"/>
-
-	<verse id="gen1_25"/>
-	
+	<verse id="ex15_3"/>
+  
+  <verse id="gen1_1"/>
+  <verse id="gen1_20"/>
+  <verse id="gen1_25"/>
 	<verse id="gen1_26"/>
-
-	<verse id="gen1_1"/>
-
+  <verse id="gen1_27"/>
+	<verse id="gen1_29"/>
+  
 	<verse id="gen3_3"/>
-
+  <verse id="gen3_6"/>
+  <verse id="gen6_2"/>
+  <verse id="gen6_3"/>
   <verse id="ps118_96"/>
 	<verse id="ps118_100"/>
 
@@ -770,10 +1038,13 @@
 	<verse id="ps66_6"/>
 
 	<verse id="is6_3"/>
+  <verse id="is62_6"/>
 
 	<verse id="ps2_3"/>
-
+  <verse id="is51_23"/>
 	<verse id="is53_8"/>
+  <verse id="is57_16"/>
+  <verse id="is59_2"/>
 
 	<verse id="prov8_22"/>
 
@@ -794,7 +1065,7 @@
 
 	<verse id="is6_6"/>
 
-	<verse id="mt28_19"/>
+	
 
 	<verse id="io10_30"/>
 
@@ -804,15 +1075,7 @@
 
 	<verse id="gal4_6"/>
 
-	<verse id="rom8_11"/>
-
-	<verse id="rom11_36"/>
-
-	<verse id="ro1_20"/>
-
-	<verse id="rom1_19"/>
-
-	<verse id="rom1_20"/>
+	
 
 	<verse id="gen1_3"/>
 	<verse id="gen1_31"/>
@@ -832,7 +1095,7 @@
 	<verse id="Itim6_16"/>
 
 	<verse id="ps101_28"/>
-
+  <verse id="mal2_15"/>
 	<verse id="mal3_6"/>
 
 	<verse id="Itim6_16"/>
@@ -847,7 +1110,7 @@
 
 	<verse id="is53_8"/>
 
-	<verse id="mt5_48"/>
+	
 
 	<verse id="ps2_7"/>
 
@@ -859,7 +1122,7 @@
 	<verse id="io5_26"/>
 
 	<verse id="Iio4_16"/>
-
+  <verse id="Iio4_18"/>
 
 
 	<verse id="Icor1_24"/>
@@ -878,13 +1141,12 @@
 
 	<verse id="gal4_16"/>
 
-	<verse id="rom8_9"/>
+	
 
 	<verse id="io15_26"/>
 
-	<verse id="rom8_11"/>
-
-	<verse id="mt10_20"/>
+	
+	
 
 	<verse id="io14_26"/>
 
@@ -893,8 +1155,11 @@
 	<verse id="io15_26"/>
 
 	<verse id="gal1_8"/>
-
+  <verse id="Ith2_4"/>
 	<verse id="Ith3_10"/>
+  <verse id="Ith3_5"/>
+  <verse id="Ith5_23"/>
+  
 
 	<verse id="io15_26"/>
 
@@ -928,14 +1193,18 @@
 
 	<verse id="rom5_5"/>
 
-	<verse id="mt28_19"/>
+	
 	
 	<verse id="ps103_3"/>
 	<verse id="ps103_4"/>
 
 	<verse id="Icor12_13"/>
+  <verse id="Icor12_10"/>
 
 	<verse id="rom5_5"/>
+  <verse id="rom11_24"/>
+  
+  
 
 	<verse id="Icor12_11"/>
 
@@ -948,6 +1217,7 @@
 	<verse id="act8_17"/>
 
 	<verse id="act8_18"/>
+  <verse id="act8_20"/>
 
 	<verse id="act2_33"/>
 
@@ -964,6 +1234,7 @@
 	<verse id="gal4_4"/>
 
 	<verse id="ier23_24"/>
+  <verse id="ier48_10"/>
 
 	<verse id="gal4_4"/>
 
@@ -972,10 +1243,14 @@
 	<verse id="is48_16"/>
 
 	<verse id="is9_6"/>
-
+  <verse id="is9_16"/>
+  
+  <verse id="lc4_9"/>
+  <verse id="lc4_10"/>
 	<verse id="lc4_18"/>
 
 	<verse id="lc4_21"/>
+  <verse id="lc4_34"/>
 
 	<verse id="io10_36"/>
 
@@ -990,6 +1265,7 @@
 	<verse id="io16_28"/>
 
 	<verse id="sap9_10"/>
+  <verse id="sap9_15"/>
 
 	<verse id="sap7_27"/>
 
@@ -1065,14 +1341,15 @@
 
 	<verse id="Iio4_10"/>
 
-	<verse id="rom8_38"/>
+  
 
 	<verse id="sap8_1"/>
 
 	<verse id="Icor12_11"/>
 
 	<verse id="io3_34"/>
-
+  <verse id="is8_6"/>
+  <verse id="is8_14"/>
 	<verse id="is9_6"/>
 
 	<verse id="Icor2_11"/>
@@ -1081,8 +1358,14 @@
   <verse id="lc1_19"/>
 
 	<verse id="num11_17"/>
+  <verse id="num12_8"/>
+  <verse id="num18_12"/>
+  <verse id="num18_26"/>
+  <verse id="num25_3"/>
+  <verse id="num25_4"/>
+  
 
-	<verse id="mt6_11"/>
+	
 
 	<verse id="ps101_25"/>
 
@@ -1094,7 +1377,7 @@
 
 	<verse id="Icor13_12"/>
 
-	<verse id="mt19_42"/>
+	
 
 	<verse id="is7_9"/>
 
@@ -1112,10 +1395,13 @@
 
 	<verse id="Iio5_7"/>
 
+  <verse id="ap1_5"/>
 	<verse id="ap4_8"/>
+  <verse id="ap16_11"/>
+  <verse id="ap21_18"/>
 	<verse id="ap19_12"/>
 
-	<verse id="mt11_27"/>
+	
 
 	<verse id="io17_3"/>
 
@@ -1124,9 +1410,13 @@
 	<verse id="io14_9"/>
 
 	<verse id="gen1_26"/>
+  <verse id="gen8_21"/>
+  <verse id="gen8_22"/>
 
 	<verse id="io10_30"/>
-
+  
+  <verse id="IIcor1_12"/>
+  <verse id="IIcor11_5"/>
 	<verse id="IIcor11_14"/>
 
 	<verse id="ps81_6"/>
@@ -1134,6 +1424,8 @@
 	<verse id="ex4_22"/>
 
 	<verse id="eph2_3"/>
+  <verse id="eph3_7"/>
+  
 
 	<verse id="deut6_4"/>
 
@@ -1160,20 +1452,27 @@
 	<verse id="Icor3_8"/>
 
 	<verse id="IIcor6_7"/>
+  <verse id="IIcor6_10"/>
+  <verse id="IIcor6_15"/>
+  <verse id="IIcor6_17"/>
 
 	<verse id="Icor1_24"/>
+  <verse id="Icor1_22"/>
+  
+  <verse id="rom11_24"/>
 
 	<verse id="prov25_27"/>
+  <verse id="prov29_22"/>
 
-	<verse id="ps68:3"/>
+	<verse id="ps68_3"/>
 
-	<verse id="rom8_9"/>
+	
 
-	<verse id="rom8_9"/>
+	
 
 	<verse id="is61_1"/>
 
-	<verse id="mt12_28"/>
+	
 
 	<verse id="ioel2_28"/>
 
@@ -1185,7 +1484,7 @@
 
 	<verse id="io10_30"/>
 
-	<verse id="rom8_29"/>
+	
 
 	<verse id="eph1:4"/>
 
@@ -1193,7 +1492,7 @@
 
 	<verse id="iac1_17"/>
 
-	<verse id="rom4_17"/>
+	
 
 
 
@@ -1206,12 +1505,11 @@
 
 
 	<verse id="ps74_7"/>
-
-	<verse id="mt7_23"/>
+  
 
 	<verse id="rom11:36"/>
 
-	<verse id="act17:28"/>
+	
 
 	<verse id="ier23_24"/>
 
@@ -1221,11 +1519,10 @@
 
 	<verse id="Icor13_9"/>
 
-	<verse id="mt6_9"/>
-
-	<verse id="mt6_9"/>
+	
 
 	<verse id="rom1_21"/>
+  <verse id="rom1_24"/>
 
 
 
@@ -1234,16 +1531,16 @@
 	<verse id="is6_6"/>
 
 	<verse id="sap8_1"/>
-
+  <verse id="sir23_5"/>
 	<verse id="sir23_29"/>
 
 	<verse id="Icor9_9"/>
-
+  <verse id="sap12_11"/>
 	<verse id="sap12_13"/>
 
 	<verse id="Icor9_9"/>
 
-	<verse id="mt5_45"/>
+	
 
 	<verse id="ap3_11"/>
 
@@ -1262,24 +1559,195 @@
 	<verse id="eph1_6"/>
 
 	<verse id="mal1_2"/>
+  <verse id="mal1_14"/>
 
 	<verse id="rom9_18"/>
 
 	<verse id="rom9_11"/>
-
-	<verse id="Icor7_25"/>
+  
+  <verse id="Icor7_2"/>
+  <verse id="Icor7_4"/>
+  <verse id="Icor7_9"/>
+  <verse id="Icor7_25"/>
+  <verse id="Icor7_28"/>
 
 	<verse id="ps113_11"/>
 
 	<verse id="rom9_19"/>
-
+  <verse id="gen19_14"/>
 	<verse id="gen19_22"/>
 
 	<verse id="ps63_7"/>
+  
+  <verse id="mt1_2"/>
+  <verse id="mt1_18"/>
+  <verse id="mt1_20"/>
+  <verse id="mt3_2"/>
+  <verse id="mt3_5"/>
+  <verse id="mt3_11"/>
+  <verse id="mt3_14"/>
+  <verse id="mt3_15"/>
+  <verse id="mt3_17"/>
+  <verse id="mt4_8"/>
+  <verse id="mt4_11"/>
+  <verse id="mt5_3"/>
+  <verse id="mt5_5"/>
+  <verse id="mt5_7"/>
+  <verse id="mt5_8"/>
+  <verse id="mt5_10"/>
+  <verse id="mt5_16"/>
+  <verse id="mt5_17"/>
+  <verse id="mt5_18"/>
+  <verse id="mt5_22"/>
+  <verse id="mt5_28"/>
+  <verse id="mt5_30"/>
+  <verse id="mt5_31"/>
+  <verse id="mt5_33"/>
+  <verse id="mt5_34"/>
+  <verse id="mt5_41"/>
+  <verse id="mt5_43"/>
+  <verse id="mt5_44"/>
+  <verse id="mt5_45"/>
+  <verse id="mt5_46"/>
+  <verse id="mt5_48"/>
+  <verse id="mt6_1"/>
+  <verse id="mt6_2"/>
+  <verse id="mt6_5"/>
+  <verse id="mt6_6"/>
+  <verse id="mt6_7"/>
+  <verse id="mt6_9"/>
+  <verse id="mt6_10"/>
+  <verse id="mt6_11"/>
+  <verse id="mt6_12"/>
+  <verse id="mt6_13"/>
+  <verse id="mt6_16"/>
+  <verse id="mt6_21"/>
+  <verse id="mt6_22"/>
+  <verse id="mt6_23"/>
+  <verse id="mt6_24"/>
+  <verse id="mt6_25"/>
+  
+  <verse id="mt6_31"/>
+  <verse id="mt7_1"/>
+  <verse id="mt7_2"/>
+  <verse id="mt7_6"/>
+  <verse id="mt7_7"/>
+  <verse id="mt7_14"/>
+  <verse id="mt7_15"/>
+  <verse id="mt7_18"/>
+  <verse id="mt7_20"/>
+  <verse id="mt7_21"/>
+  <verse id="mt7_23"/>
+  <verse id="mt8_3"/>
+  <verse id="mt8_8"/>
+  <verse id="mt8_15"/>
+  <verse id="mt8_29"/>
+  <verse id="mt8_31"/>
+  <verse id="mt8_32"/>
+  <verse id="mt9_6"/>
+  <verse id="mt9_12"/>
+  <verse id="mt9_15"/>
+  <verse id="mt9_22"/>
+  <verse id="mt10_8"/>
+  <verse id="mt10_14"/>
+  <verse id="mt10_30"/>
+  <verse id="mt10_20"/>
+  <verse id="mt11_1"/>
+  <verse id="mt11_2"/>
+  <verse id="mt11_8"/>
+  <verse id="mt11_13"/>
+  <verse id="mt11_21"/>
+  <verse id="mt11_23"/>
+  <verse id="mt11_24"/>
+  <verse id="mt11_27"/>
+  <verse id="mt11_29"/>
+  <verse id="mt11_30"/>
+  <verse id="mt12_28"/>
+  <verse id="mt12_29"/>
+  <verse id="mt12_30"/>
+  <verse id="mt12_31"/>
+  <verse id="mt12_32"/>
+  <verse id="mt12_36"/>
+  <verse id="mt12_39"/>
+  <verse id="mt12_40"/>
+  <verse id="mt12_41"/>
+  <verse id="mt12_45"/>
+  <verse id="mt12_50"/>
+  <verse id="mt13_41"/>
+  <verse id="mt13_43"/>
+  <verse id="mt15_14"/>
+  <verse id="mt15_16"/>
+  <verse id="mt15_18"/>
+  <verse id="mt15_19"/>
+  <verse id="mt15_24"/>
+  <verse id="mt16_18"/>
+  <verse id="mt16_19"/>
+  <verse id="mt16_23"/>
+  <verse id="mt17_19"/>
+  <verse id="mt17_20"/>
+  <verse id="mt17_25"/>
+  <verse id="mt17_26"/>
+  <verse id="mt18_10"/>
+  <verse id="mt18_15"/>
+  <verse id="mt18_16"/>
+  <verse id="mt18_17"/>
+  <verse id="mt18_18"/>
+  <verse id="mt18_34"/>
+  <verse id="mt19_4"/>
+  <verse id="mt19_6"/>
+  <verse id="mt19_9"/>
+  <verse id="mt19_17"/>
+  <verse id="mt19_21"/>
+  <verse id="mt19_28"/>
+  <verse id="mt19_42"/>
+  <verse id="mt21_19"/>
+  <verse id="mt22_13"/>
+  <verse id="mt22_21"/>
+  <verse id="mt22_29"/>
+  <verse id="mt22_30"/>
+  <verse id="mt22_32"/>
+  <verse id="mt22_38"/>
+  <verse id="mt22_40"/>
+  <verse id="mt23_10"/>
+  <verse id="mt23_30"/>
+  <verse id="mt23_37"/>
+  <verse id="mt24_12"/>
+  <verse id="mt24_13"/>
+  <verse id="mt24_14"/>
+  <verse id="mt24_24"/>
+  <verse id="mt24_27"/>
+  <verse id="mt24_30"/>
+  <verse id="mt24_36"/>
+  <verse id="mt25_4"/>
+  <verse id="mt25_12"/>
+  <verse id="mt25_15"/>
+  <verse id="mt25_29"/>
+  <verse id="mt25_31"/>
+  <verse id="mt25_41"/>
+  <verse id="mt25_46"/>
+  <verse id="mt26_24"/>
+  <verse id="mt26_25"/>
+  <verse id="mt26_26"/>
+  <verse id="mt26_28"/>
+  <verse id="mt26_29"/>
+  <verse id="mt26_38"/>
+  <verse id="mt26_39"/>
+  <verse id="mt26_44"/>
+  <verse id="mt26_52"/>
+  <verse id="mt26_53"/>
+  <verse id="mt26_63"/>
+  <verse id="mt26_53"/>
+  <verse id="mt27_52"/>
+  <verse id="mt28_10"/>
+  <verse id="mt28_18"/>
+  <verse id="mt28_19"/>
+  <verse id="mt28_20"/>
+  
+  
 
-	<verse id="mt26_53"/>
+ 
 
-	<verse id="mt11_21"/>
+  
 
 	<verse id="sap8_1"/>
 
@@ -1287,7 +1755,7 @@
 
 	<verse id="rom9_19"/>
 
-	<verse id="rom12_2"/>
+
 
 	<verse id="ps110_2"/>
 
@@ -1295,9 +1763,9 @@
 
 	<verse id="ps18_9"/>
 
-	<verse id="mt6_10"/>
+	
 
-	<verse id="mt12_50"/>
+	
 
 	<verse id="ps113_11"/>
 
@@ -1305,23 +1773,28 @@
 
 	<verse id="Itim2_4"/>
 
-	<verse id="mt23_37"/>
+	
 
 	<verse id="ps113_11"/>
 
 	<verse id="rom9_19"/>
-
+  <verse id="io1_5"/>
 	<verse id="io1_9"/>
 
 	<verse id="io1_3"/>
 
-	<verse id="rom8_28"/>
+	
 
-	<verse id="rom8_28"/>
+	
 
 	<verse id="2cor2_15"/>
 
+  <verse id="sir31_10"/>
+  <verse id="sir31_38"/>
 	<verse id="sir37_23"/>
+  <verse id="sir33_15"/>
+  <verse id="sir35_14"/>
+  
 
 	<verse id="ICor12_3"/>
 
@@ -1329,10 +1802,12 @@
 
 	<verse id="ps16_4"/>
 
-	<verse id="rom8_18"/>
+	
 
 	<verse id="ps138_2"/>
 
+  <verse id="phil1_17"/>
+  <verse id="phil1_18"/>
 	<verse id="phil1_23"/>
 
 	<verse id="gen1_1"/>
@@ -1344,18 +1819,37 @@
 	<verse id="mt22_37"/>
 
 	<verse id="IIcor5_4"/>
-
+  <verse id="IIcor5_6"/>
+  <verse id="lc10_11"/>
 	<verse id="lc10_18"/>
+  <verse id="lc13_5"/>
+  <verse id="lc13_24"/>
+  
 
 	<verse id="gen1_1"/>
-	
+  <verse id="iob3_6"/>
+  <verse id="iob3_11"/>
+  <verse id="iob20_5"/>
+  <verse id="iob20_25"/>
+  <verse id="iob24_13"/>
 	<verse id="iob26_8"/>
+  <verse id="iob29_16"/>
+  <verse id="iob30_17"/>
+  <verse id="iob30_1"/>
+  <verse id="iob31_12"/>
+  <verse id="iob31_27"/>
+  <verse id="iob32_7"/>
+  <verse id="iob33_2"/>
+  <verse id="iob33_17"/>
+  <verse id="iob35_3"/>
 	<verse id="iob38_7"/>
 
 	<verse id="is14_13"/>
 
 	<verse id="sap11_21"/>
-
+  <verse id="sap11_25"/>
+  <verse id="io8_7"/>
+  <verse id="io8_36"/>
 	<verse id="io8_44"/>
 
 	<verse id="ps103_26"/>
@@ -1368,8 +1862,14 @@
 	<verse id="io8_44"/>
 
 	<verse id="gen1_4"/>
-
+  <verse id="iob40_10"/>
+  <verse id="iob40_12"/>
 	<verse id="iob40_14"/>
+  <verse id="iob40_28"/>
+  <verse id="iob40_23"/>
+  
+  <verse id="iob41_24"/>
+  <verse id="iob41_25"/>
 
 	<verse id="ez28_12"/>
 
@@ -1380,16 +1880,17 @@
 	<verse id="is14_13"/>
 
 	<verse id="ap12_3"/>
-
+  <verse id="eph6_9"/>
 	<verse id="eph6_12"/>
 
-	<verse id="mt25_41"/>
+	
 
 	<verse id="ap20_7"/>
 
 
 
 	<verse id="ex33_20"/>
+  <verse id="ex8_19"/>
 
 
 
@@ -1400,17 +1901,28 @@
 
 
 	<verse id="eph1_10"/>
-
+  <verse id="eph1_17"/>
+  <verse id="deut22_5"/>
+  <verse id="deut23_10"/>
+  <verse id="deut23_17"/>
+  <verse id="deut23_24"/> 
 	<verse id="deut32_8"/>
 
 	<verse id="rom4_17"/>
 
-
-
+  <verse id="iac1_13"/>
+  <verse id="iac1_14"/>
+  <verse id="iac1_15"/>
 	<verse id="iac1_17"/>
+  
+  <verse id="Ipetr1_17"/>
+	
+  <verse id="IIpetr1_21"/>
+  <verse id="IIpetr2_21"/>
+  <verse id="IIpetr3_3"/>
+  <verse id="IIpetr3_9"/>
 
-	<verse id="IIpetr1_21"/>
-
+  <verse id="ps13_3"/>
 	<verse id="ps118_18"/>
 
 	<verse id="hebr11_1"/>
@@ -1424,9 +1936,10 @@
 	<verse id="Icor13_12"/>
 
 	<verse id="hebr11_6"/>
-
+  <verse id="sir8_13"/>
+  <verse id="sir8_24"/>
 	<verse id="sir24_31"/>
-
+  <verse id="sir25_33"/>
 	<verse id="io4_42"/>
 
 
@@ -1438,9 +1951,11 @@
 	<verse id="hebr4_12"/>
 
 	<verse id="rom4_3"/>
+  <verse id="rom4_7"/>
 
 	<verse id="hab2_4"/>
-
+  <verse id="hab2_5"/>
+  <verse id="iac2_1"/>
 	<verse id="iac2_19"/>
 
 	<verse id="iac2_17"/>
@@ -1448,10 +1963,13 @@
 	<verse id="Icor13_2"/>
 
 	<verse id="gal3_6"/>
+  <verse id="gal6_4"/>
+  <verse id="gal6_10"/>
 
 
-
+  <verse id="ier9_21"/>
 	<verse id="ier20_7"/>
+  <verse id="ier20_14"/>
 
 	<verse id="lc24_28"/>
 
@@ -1463,12 +1981,20 @@
 
 	<verse id="gen1_1"/>
 
-	<verse id="mt25_41"/>
-
+	
+  
+  
+  <verse id="sir10_1"/>
+  <verse id="sir10_14"/>
+  <verse id="sir10_15"/>
+  <verse id="sir17_1"/>
+  <verse id="sir17_4"/>
 	<verse id="sir18_1"/>
 
 	<verse id="gen1_1"/>
-
+  <verse id="gen7_7"/>
+  
+  <verse id="Icor2_14"/>
 	<verse id="Icor2_15"/>
 
 	<verse id="ex20_14"/>
@@ -1482,10 +2008,10 @@
 
 
 	<verse id="is7_9"/>
-
-
-
+  <verse id="is10_15"/>
+  <verse id="is5_12"/>
 	<verse id="is5_20"/>
+  <verse id="is5_22"/>
 
 
 
@@ -1495,6 +2021,10 @@
 
 	<verse id="ps37_11"/>
 
+  <verse id="lev7_7"/>
+  <verse id="lev20_10"/>
+  
+  <verse id="lev24_16"/>
 	<verse id="lev26_19"/>
 
 
@@ -1507,19 +2037,18 @@
 
 	<verse id="is5_20"/>
 
-
-
-	<verse id="mt17_19"/>
+  
 
 	<verse id="Icor13_2"/>
 
 	<verse id="hebr11_33"/>
 
 	<verse id="Iio5_4"/>
+  <verse id="Iio5_44"/>
 
 	<verse id="hebr11_33"/>
 
-	<verse id="mt5_17"/>
+	
 
 
 
@@ -1527,9 +2056,11 @@
 
 	<verse id="act5_39"/>
 
+  
 	<verse id="lc22_32"/>
+  <verse id="lc22_38"/>
 
-	<verse id="mt28_20"/>
+  
 
 	<verse id="act1_8"/>
 
@@ -1539,7 +2070,7 @@
 
 	<verse id="hebr11_1"/>
 
-	<verse id="rom11_33"/>
+	
 
 
 
@@ -1555,15 +2086,19 @@
 
 
 
-	<verse id="rom11_33"/>
+	
 
 	<verse id="ps113_11"/>
 
+  <verse id="io5_44"/>
 	<verse id="io5_46"/>
 
 	<verse id="hebr11_6"/>
-
+  
+  <verse id="IIcor3_1"/>
 	<verse id="IIcor3_5"/>
+  <verse id="IIcor3_12"/>
+  <verse id="IIcor3_18"/>
 
 	<verse id="rom9_13"/>
 
@@ -1573,6 +2108,7 @@
 
 	<verse id="io1_18"/>
 
+  <verse id="Itim6_10"/>
 	<verse id="Itim6_16"/>
 
 
@@ -1587,7 +2123,7 @@
 
 	<verse id="ex3_14"/>
 
-	<verse id="rom1_20"/>
+	
 
 
 
@@ -1605,33 +2141,35 @@
 	<verse id="ap1_8"/>
 
 
-	<verse id="rom11_36"/>
+	
 
 	<verse id="act17_28"/>
 
-	<verse id="act17_28"/>
 
-	<verse id="rom9_21"/>
-
-	<verse id="pl-b2d1c4-a"/>
-
-	<verse id="rom10_2"/>
-
+	
+  
+  <verse id="Icor5_5"/>
+  <verse id="Icor5_6"/>
+  <verse id="Icor10_21"/>
+  <verse id="Icor10_25"/>
 	<verse id="Icor10_31"/>
+  <verse id="Icor10_33"/>
 
 	<verse id="IIcor10_5"/>
+  <verse id="IIcor10_13"/>
 
 	<verse id="IIcor5_14"/>
 
 
 
 	<verse id="ap3_20"/>
-
+  <verse id="ex1_8"/>
+  <verse id="ex1_19"/>
 	<verse id="ex1_20"/>
 
 	<verse id="ap3_20"/>
 
-	<verse id="mt6_2"/>
+	
 
 
 
@@ -1640,12 +2178,12 @@
 	<verse id="pl-b3d5c3-a"/>
 
 
-
+  <verse id="col2_8"/>
 	<verse id="col2_9"/>
 
 	<verse id="hebr1_3"/>
 
-	<verse id="rom11_36"/>
+	
 
 
 
@@ -1660,16 +2198,18 @@
 
 
 	<verse id="ap21_22"/>
-
+  
+  <verse id="num23_8"/>
 	<verse id="num23_11"/>
 
 	<verse id="num23_12"/>
 
 	<verse id="num23_19"/>
 
-	<verse id="mt28_20"/>
+  
+	
 
-	<verse id="mt16_18"/>
+	
 
 	<verse id="io11_50"/>
 
@@ -1678,10 +2218,12 @@
 
 
 	<verse id="is63_1"/>
+  <verse id="is63_17"/>
 
 	<verse id="cant1_1"/>
 
 	<verse id="ez1_16"/>
+  <verse id="ez13_18"/>
 
 	<verse id="io5_46"/>
 
@@ -1694,28 +2236,38 @@
 	<verse id="Itim1_3"/>
 
 	<verse id="gal1_9"/>
-
+  <verse id="gal1_10"/>
+  <verse id="Iio2_15"/>
+  <verse id="Iio2_16"/>
+  <verse id="Iio2_18"/>
 	<verse id="Iio2_27"/>
-
+  <verse id="prov4_24"/>
 	<verse id="prov8_17"/>
+  <verse id="prov30_11"/>
+  <verse id="prov30_13"/>
+  <verse id="prov30_15"/>
+  <verse id="prov31_30"/>
 
 	<verse id="io14_23"/>
 
 	<verse id="tit3_5"/>
-
-	<verse id="rom8_18"/>
+  <verse id="tit3_10"/>
+	
 
 	<verse id="Itim2_4"/>
+  <verse id="Itim2_9"/>
 
 	<verse id="Icor10_11"/>
 
 
 
 	<verse id="io10_11"/>
+  <verse id="io10_12"/>
+  <verse id="io12_25"/>
 
 	<verse id="ps105_20"/>
 
-	<verse id="rom1_23"/>
+  
 
 
 
@@ -1724,10 +2276,10 @@
 	<verse id="is43_25"/>
 
 	<verse id="Icor10_13"/>
-
+  <verse id="IIcor9_6"/>
 	<verse id="IIcor12_7"/>
 
-	<verse id="rom8_28"/>
+	
 
 	<verse id="IIreg23_24"/>
 
@@ -1736,6 +2288,7 @@
 	<verse id="Iio3_8"/>
 
 	<verse id="IIcor3_5"/>
+  <verse id="IIcor3_6"/>
 
 	<verse id="Icor8_4"/>
 
@@ -1744,22 +2297,28 @@
 	<verse id="ps105_40"/>
 
 	<verse id="ps105_40"/>
-
+  <verse id="Ipetr2_4"/>
+  <verse id="Ipetr2_18"/>
 	<verse id="Ipetr5_8"/>
 
 
 
 	<verse id="gen44_15"/>
+  <verse id="gen44_29"/>
+  <verse id="gen46_26"/>
 
-
-
+  <verse id="col3_5"/>
+  <verse id="col3_8"/>
 	<verse id="col3_17"/>
-
+  <verse id="col3_25"/>
+  <verse id="lev19_15"/>
 	<verse id="lev19_26"/>
-
+  <verse id="deut16_18"/>
+  <verse id="deut16_19"/>
 	<verse id="deut18_10"/>
+  <verse id="deut19_14"/>
+  
 
-	<verse id="mt26_53"/>
 
 	<verse id="ps61_12"/>
 
@@ -1777,19 +2336,20 @@
 	<verse id="ap3_20"/>
   <verse id="ap12_12"/>
 
-	<verse id="rom4_17"/>
+	
 
-	<verse id="rom11_33"/>
+	
 
-	<verse id="rom11_20"/>
+	
 
 	<verse id="rom9_21"/>
 
 
 
 	<verse id="act10_11"/>
+  <verse id="act10_34"/>
 
-	<verse id="mt26_53"/>
+	
 
 
 
@@ -1801,23 +2361,24 @@
 
 	<verse id="io1_14"/>
 
-	<verse id="mt26_63"/>
+	
 
 	<verse id="phil2_6"/>
 
 	<verse id="io16_5"/>
 
-	<verse id="rom1_3"/>
+	
 
 	<verse id="gal4_4"/>
-
+  <verse id="hebr2_10"/>
+  <verse id="hebr2_14"/>
 	<verse id="hebr2_16"/>
 
 	<verse id="io1_3"/>
 
 	<verse id="ps44_3"/>
 
-	<verse id="rom11_34"/>
+	
 
 	<verse id="ro1_20"/>
 
@@ -1828,22 +2389,23 @@
 	<verse id="IIcor12_4"/>
 
 	<verse id="hebr11_6"/>
+  
+  
 
-	<verse id="rom14_23"/>
 
 	<verse id="IIcor12_4"/>
 
-	<verse id="mt22_40"/>
+	
 
 	<verse id="iudic9_8"/>
-
+  <verse id="ez33_6"/>
 	<verse id="ez34_2"/>
 
 	<verse id="ez34_3"/>
 
 	<verse id="ez34_10"/>
 
-	<verse id="rom15_4"/>
+	
 	<verse id="rom15_25"/>
 
 	<verse id="ap22_12"/>
@@ -1851,6 +2413,7 @@
 	<verse id="IIpara12_9"/>
 
 	<verse id="sir3_22"/>
+  <verse id="sir30_4"/>
 
 	<verse id="sir37_3"/>
 
@@ -1863,14 +2426,31 @@
 	<verse id="cant4_4"/>
 
 	<verse id="IIcor5_14"/>
-
-	<verse id="quoh9_1"/>
-
+  
+  <verse id="quoh3_4"/>
+  <verse id="quoh3_7"/>
+  <verse id="quoh7_3"/>
+  <verse id="quoh7_4"/>
+  <verse id="quoh7_5"/>
+  <verse id="quoh7_19"/>
+  <verse id="quoh7_21"/>
+  <verse id="quoh7_23"/>
+	
+  <verse id="quoh9_1"/>
+  <verse id="quoh9_5"/>
+  <verse id="quoh9_6"/>
+  <verse id="quoh9_10"/>
+  
 	<verse id="Itim4_1"/>
 	<verse id="Itim4_6"/>
 	<verse id="Itim4_16"/>
-
-	<verse id="IItim4_3"/>
+  
+  <verse id="IIth2_5"/>
+  <verse id="IIth2_9"/>
+  <verse id="IIth4_16"/>
+  <verse id="IIth2_4"/>
+  <verse id="IItim2_14"/>
+  <verse id="IItim4_3"/>
 	
 	<verse id="ps23_8"/>
 	<verse id="ps25_5"/>
@@ -1885,7 +2465,7 @@
 
 	<verse id="Icor2_6"/>
 
-	<verse id="mt5_8"/>
+	
 
 	<verse id="is7_9"/>
 
@@ -1896,10 +2476,27 @@
 	<verse id="mk16_20"/>
 
 	<verse id="Icor15_16"/>
-
+  <verse id="Icor15_22"/>
+  <verse id="Icor15_24"/>
+  <verse id="Icor15_28"/>
+  <verse id="Icor15_33"/>
+  <verse id="Icor15_44"/>
+  <verse id="Icor15_45"/>
+  <verse id="Icor15_48"/>
+  <verse id="Icor15_56"/>
+  
 	<verse id="io17_3"/>
-
+  <verse id="prov10_19"/>
+  <verse id="prov10_29"/>
+  <verse id="prov11_13"/>
+  <verse id="prov12_4"/>
+  <verse id="prov14_22"/>
+  <verse id="prov14_23"/>
+  <verse id="prov15_27"/>
 	<verse id="prov16_4"/>
+  <verse id="prov17_11"/>
+  <verse id="prov17_15"/>
+  <verse id="prov17_22"/>
 
 	<verse id="Icor10_31"/>
 
@@ -1916,12 +2513,16 @@
 	<verse id="sap7_30"/>
 
 	<verse id="iac4_6"/>
+  <verse id="iac4_11"/>
+  <verse id="iac4_17"/>
+  <verse id="iac4_7"/>
 
 	<verse id="lc1_15"/>
 
 	<verse id="lc1_15"/>
 
 	<verse id="sap1_4"/>
+  <verse id="sap1_11"/>
 
 	<verse id="rom"/>
 
@@ -1929,17 +2530,19 @@
 
 	<verse id="io10_36"/>
 
-	<verse id="mt1_20"/>
-
+	
+  <verse id="deut7_1"/>
+  <verse id="deut7_6"/>
 	<verse id="deut32_6"/>
 
-	<verse id="rom8_29"/>
+  
 
 	<verse id="ps32_22"/>
 	<verse id="ps33_9"/>
 
 	<verse id="phil2_7"/>
 
+  <verse id="ps4_5"/>
 	<verse id="ps44_5"/>
 
 	<verse id="phil2_7"/>
@@ -1949,34 +2552,39 @@
 	<verse id="phil2_7"/>
 
 	<verse id="io1_14"/>
+  <verse id="io1_16"/>
 
 	<verse id="ex20_4"/>
-
+  <verse id="ex20_5"/>
+  <verse id="ex22_8"/>
+  <verse id="ex23_3"/>
+  <verse id="ex23_6"/>
+  
 	<verse id="io4_24"/>
 
 	<verse id="phil2_9"/>
 
-	<verse id="mt9_6"/>
+	
 
 	<verse id="is43_25"/>
 
-	<verse id="rom1_4"/>
+	
 
-	<verse id="rom1_4"/>
+	
 
 	<verse id="eph1_5"/>
 
 
-
-	<verse id="rom8_30"/>
-
+  
+  
+  <verse id="sir21_30"/>
 	<verse id="sir24_14"/>
 
 	<verse id="io14_28"/>
 
 	<verse id="hebr1_3"/>
 
-	<verse id="rom8_39"/>
+	
 
 	<verse id="io8_58"/>
 
@@ -1989,16 +2597,20 @@
 	<verse id="io1_14"/>
 
 	<verse id="ier31_22"/>
+  <verse id="ier51_9"/>
 
-	<verse id="rom3_25"/>
+  
 
 	<verse id="Icor12_26"/>
+  <verse id="Icor12_28"/>
 
 	<verse id="col2_10"/>
 
 	<verse id="phil3_21"/>
-
+  
+  <verse id="mc7_15"/>
 	<verse id="mc13_32"/>
+  <verse id="mc14_5"/>
   <verse id="mc14_34"/>
 
 	<verse id="ap13_32"/>
@@ -2008,20 +2620,19 @@
 	<verse id="lc22_43"/>
 
 	<verse id="is42_4"/>
+  <verse id="is42_5"/>
+  <verse id="is42_8"/>
 
 	<verse id="is53_4"/>
 
 
 
-	<verse id="rom8_10"/>
-
-	<verse id="rom5_12"/>
+	
 
 	<verse id="io10_18"/>
 
-	<verse id="rom8_3"/>
-
-	<verse id="mt8_3"/>
+	
+  
 
 	<verse id="lc22_42"/>
 
@@ -2030,20 +2641,26 @@
 	<verse id="io11_42"/>
 
 	<verse id="IIcor5_4"/>
+  <verse id="IIcor7_10"/>
 
 	<verse id="lc14_2"/>
+  <verse id="lc14_23"/>
+  <verse id="lc14_26"/>
 
+  <verse id="io15_12"/>
 	<verse id="io15_13"/>
 
-	<verse id="ez18_4"/>
+  <verse id="ios11_21"/>
 
-	<verse id="rom8_32"/>
+	<verse id="ez18_4"/>
+  <verse id="ez18_6"/>
+
+	
 
 	<verse id="ps15_10"/>
 
 	<verse id="Icor15_17"/>
 
-	<verse id="mt12_40"/>
 
 	<verse id="Iio1_3"/>
 
@@ -2064,16 +2681,19 @@
 	<verse id="eph2_6"/>
 
 	<verse id="eph1_20"/>
+  <verse id="eph1_21"/>
+  <verse id="eph1_22"/>
 
 	<verse id="hebr11_1"/>
 
 	<verse id="is7_9"/>
 
-	<verse id="rom5_1"/>
+	
 
 	<verse id="io1_12"/>
 
 	<verse id="eph4_5"/>
+  <verse id="eph4_31"/>
 
 	<verse id="ps110_2"/>
 
@@ -2090,6 +2710,9 @@
 	<verse id="rom14_23"/>
 
 	<verse id="hebr11_1"/>
+  <verse id="hebr13_4"/>
+  <verse id="hebr13_5"/>
+  <verse id="hebr13_17"/>
 
 	<verse id="io1_18"/>
 
@@ -2103,13 +2726,13 @@
 
 	<verse id="io20_29"/>
 
-	<verse id="rom12_12"/>
-
-	<verse id="mt8_29"/>
+	
+	
 
 	<verse id="io1_3"/>
 
 	<verse id="ex3_14"/>
+  <verse id="ex32_6"/>
 
 	<verse id="is48_16"/>
 
@@ -2118,20 +2741,27 @@
 	<verse id="sap6_8"/>
 
 	<verse id="eph1_4"/>
-
-	<verse id="mt18_17"/>
-
-	<verse id="mt18_18"/>
-
+  
+    <verse id="Icor15_51"/>
+  
+  
+  <verse id="gen1_21"/>
 	<verse id="gen1_22"/>
+  <verse id="gen1_28"/>
 	<verse id="gen1_6"/>
 	<verse id="gen1_7"/>
-
-	<verse id="Icor15_51"/>
-
+  <verse id="gen3_12"/>
+  <verse id="gen3_13"/>
+  <verse id="gen3_17"/>
 	<verse id="gen3_19"/>
-
+  <verse id="gen3_20"/>
+  <verse id="gen3_22"/>
+  <verse id="gen3_23"/>
+  
+  <verse id="iob1_6"/>
+  <verse id="iob16_14"/>
 	<verse id="iob19_27"/>
+  <verse id="iob7_20"/>
 
 	<verse id="lc16_25"/>
 	

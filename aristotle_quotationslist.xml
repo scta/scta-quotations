@@ -63,8 +63,29 @@
  By Jacobus (Venetici.), --></note>
                <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- see Aristotle_PosteriorAnalytics_1_2_a --> 
             </item>
-            
-            
+           <item xml:id="Aristotle_DeAnima_III_5_a"> 
+             <quote>intellectus agens est potens omnia facere et intellectus possibilis omnia fieri</quote> 
+             <bibl type="Aristotle_DeAnima">
+               <author ref="#Aristotle">Aristoteles</author>
+               <title ref="#deAnima">Posterior Analytics</title>
+               <biblScope type="librum">3</biblScope>
+               <biblScope type="capitulus">5</biblScope>
+             </bibl>
+             <note type="citation">Aristoteles, De anima, III.5 (430a14-15)</note>
+             <note type="firstIdentification">Gracilis, Librum I, q. 1</note> 
+           </item>
+           
+           <item xml:id="aa-ethica-1"> 
+             <quote>Omnia bonum appetunt</quote> 
+             <bibl type="Aristotle_Ethics">
+               <author ref="#Aristotle">Aristoteles</author>
+               <title ref="#Ethics">Ethics</title>
+               <biblScope type="librum">1</biblScope>
+               <biblScope type="capitulus">1</biblScope>
+             </bibl>
+             <note type="citation">Aristotle, Ethica, I.1 (1094a1-3)</note>
+             <note type="firstIdentification">Gracilis, Librum I, q. 2s</note> 
+           </item>
          </list>
       </body>
   </text>

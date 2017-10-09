@@ -25,6 +25,7 @@
                 <biblScope type="book">14</biblScope>
                 <biblScope type="chapter">1</biblScope>
              </bibl>
+            <note type="source">http://scta.info/resource/adt-l14</note>
           </item>
           <item xml:id="Augustine_deTrinitate_14_1_3_b"> <!-- same quote as AugDeTrin14_1-a, but expanded -->
              <quote type="Patristic">"sed illud tantummodo quo fides saluberrima, quae ad veram beatitudinem ducit, gignitur, nutritur, defenditur, roboratur: qua scientia non pollent fideles plurimi, quamvis polleant ipsa fide plurimum.”</quote>
@@ -37,6 +38,7 @@
              </bibl>
              <note type="citation">S. Augustinus, De Trinit., XIV, c. 1 , n. 3 (PL 42, 1037; CCSL 50A, 424)</note>
              <note type="firstIdentification">Wodeham, Prologue, question 1</note>
+            <note type="source">http://scta.info/resource/adt-l14</note>
           </item>
           <item xml:id="Augustine_ContraEpistulamManichaei_5_6_a"> <!-- better id is: Augustine_contraEpistulamManichaei_5_6_a -->
              <quote type="Patristic">Ego vero Euangelio non crederem, nisi me catholicae Ecclesiae commoveret auctoritas.</quote>
@@ -60,6 +62,7 @@
                 <biblScope type="capitulus">10</biblScope>
              </bibl>
              <note type="citation">CCL:50A:394</note>
+            <note type="source">http://scta.info/resource/adt-l13</note>
           </item>
           <item xml:id="Augustine_Confessions_10_23_33_a">
              <quote type="Scholastic">beata quippe vita est gaudium de veritate</quote>
@@ -95,6 +98,7 @@
              </bibl>
              <note type="citation">PL 42, 867</note>
              <note type="firstIdentification">Lombard, Book I, prologue</note>
+            <note type="source">http://scta.info/resource/adt-l13</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_3_1_1_b">
              <quote type="Patristic">fratribus autem non valeam resistere, iure, quo eis servus factus sum, falgitantibus, ut eorum in Christo laudabilibus studiis lingua ac stilo meo, quas bigas in me caritas agitat, maxime serviam</quote>
@@ -107,6 +111,7 @@
              </bibl>
              <note type="citation">PL 42, 867</note>
              <note type="firstIdentification">Lombard, Book I, prologue</note>
+            <note type="source">http://scta.info/resource/adt-l3</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_3_1_1_c">
              <quote type="Patristic">Non debet labor hic meus cuiquam pigro aut multum docto videri superfluus cum multis impigris multisque indoctis inter quos etiam mihi non parva ex parte sit necessarius</quote>
@@ -119,6 +124,7 @@
              </bibl>
              <note type="citation">PL 42, 869</note>
              <note type="firstIdentification">Lombard, Book I, prologue</note>
+            <note type="source">http://scta.info/resource/adt-l3</note>
           </item>
          <item xml:id="Augustine_DeTrinitate_3_1_2_a">
            <quote type="Patristic">Sane cum in omnibus litteris meis non solum 
@@ -134,6 +140,7 @@
            </bibl>
            <note type="citation">PL 42, 869</note>
            <note type="firstIdentification">Lombard, Book I, prologue</note>
+           <note type="source">http://scta.info/resource/adt-l3</note>
          </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_2_2_a">
              <quote type="Patristic">Omnis doctrina vel rerum est, vel signorum. 
@@ -258,6 +265,7 @@
              </bibl>
              <note type="citation">PL 42, 981</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 2 (I:16)</note> <!-- cited again in chapter 3 -->
+            <note type="source">http://scta.info/resource/adt-l10</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_10_11_17_a">
              <quote type="Patristic">Uti est enim assumere aliquid in facultatem voluntatis; frui est autem uti cum gaudio, non adhuc spei, sed iam rei. Proinde omnis qui fruitur, utitur; assumit enim aliquid in facultatem voluntatis, cum fine delectationis. Non autem omnis qui utitur fruitur, si id quod in facultatem voluntatis assumit, non propter illud ipsum, sed propter aliud appetivit</quote> 
@@ -270,6 +278,7 @@
              </bibl>
              <note type="citation">PL 42, 982</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 3 (I:16)</note> 
+            <note type="source">http://scta.info/resource/adt-l10</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_30_31_a">
              <quote type="Patristic">[Angeli] illo enim fruentes etiam ipsi beati sunt, quo et nos frui desideramus; et quantum in hac vita fruimur vel per speculum vel in aenigmate</quote> 
@@ -376,6 +385,7 @@
              </bibl>
              <note type="citation">??, p. 503 (ll. 54-58)</note>
              <note type="firstIdentification">Gracilis, Book I, q. 19</note> <!-- referenced or alluded to in Matthew of Aquasparta Book I, d. 11, q. 4 see 840 of Festschrift for Stephen Brown -->
+            <note type="source">http://scta.info/resource/adt-l15</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_5_11_12_a">
              <quote type="Patristic">Sed ipsa relatio non apparet in hoc nomine; apparet autem cum dicitur donum Dei. Donum enim est Patris et Filii, qui et a Patre procedit</quote> 
@@ -388,6 +398,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, Book I, q. 19</note> <!-- also quote by Bonaventure, Book I, d. 26, c. 5 -->
+            <note type="source">http://scta.info/resource/adt-l5</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_6_10_11_a">
              <quote type="Patristic">hoc esse est unum omnia tamquam Verbum perfectum, cui non desit aliquid et ars quaedam omnipotentis atque sapientis Dei plena omnium rationum viventium incommutabilium, et omnes unum in ea sicut ipsa unum de uno cum quo unum.</quote> 
@@ -412,6 +423,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, Book I, q. 19</note>
+            <note type="source">http://scta.info/resource/adt-l15</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_3_9_18_a">
              <quote type="Patristic">Sed non est creator, nisi qui principaliter ista format, nec quisquam hoc potest nisi ille penes quem primitus sunt omnium quae sunt mensurae, numeri et pondera</quote> 
@@ -424,6 +436,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Plaoul, Lectio 59</note>
+            <note type="source">http://scta.info/resource/adt-l3</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_14_15_21_a">
              <quote type="Patristic">Ubinam sunt istae regulae scriptae, ubi quid sit iustum et iniustus agnoscit, ubi cernit habendum esse quod ipse non habet? Ubi ergo scriptae sunt, nisi in libro lucis illius quae veritas dicitur?</quote> 
@@ -436,6 +449,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Plaoul, Lectio 59</note>
+            <note type="source">http://scta.info/resource/adt-l14</note>
           </item>
           <item xml:id="Augustine_ContraIulianum_4_3_33_a">
              <quote type="Patristic">Sine hoc amore Creatoris, nullis quisquam bene utitur creaturis.</quote> 
@@ -460,6 +474,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, Book 1, q. 19</note>
+            <note type="source">http://scta.info/resource/adt-l8</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_1_1_1_a">
              <quote type="Patristic">Nulla enim omnino res est quae se ipsam gignat ut sit.</quote> 
@@ -472,6 +487,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Plaoul, Lectio 30</note>
+            <note type="source">http://scta.info/resource/adt-l1</note>
           </item>
           <item xml:id="Augustine_Sermo351_2_2_a">
              <quote type="Patristic">omnis qui suae voluntatis arbiter constitutus est cum ad sacramentum accedit fidelium nisi poeniteat eum veteris vitae vetustas novam poterit inchoare</quote> 
@@ -495,6 +511,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 21</note>
+            <note type="source">http://scta.info/resource/adt-l5</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_5_3_4_a">
              <quote type="Patristic">Quaerimus secundum quid aequalis.</quote> 
@@ -507,6 +524,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 21</note> <!-- note that gracilis seems to say that this is in c. 7 -->
+            <note type="source">http://scta.info/resource/adt-l5</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_5_10_11_a">
              <quote type="Patristic">Sicut ergo non dicimus tres essentias, ita non dicimus tres magnitudines neque tres magnos.</quote> 
@@ -519,6 +537,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 21</note> <!-- note that gracilis seems to say that this is in c. 7 -->
+            <note type="source">http://scta.info/resource/adt-l5</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_7_1_2_a">
              <quote type="Patristic">Huc accedit quia omnis essentia quae relative dicitur est etiam aliquid excepto relativo, sicut homo dominus et homo servus et equus iumentum et nummus arra; homo et equus et nummus ad se dicuntur et substantiae sunt vel essentiae; dominus vero et servus et iumentum et arra ad aliquid relative dicuntur.</quote> 
@@ -531,6 +550,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 23</note>
+            <note type="source">http://scta.info/resource/adt-l7</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_7_2_3_a">
              <quote type="Patristic">Et propterea non eo Verbum quo sapientia, quia Verbum non ad se dicitur, sed tantum relative ad eum cuius Verbum est, sicut Filius ad Patrem; sapientia vero eo quo essentia.</quote> 
@@ -543,6 +563,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 23</note>
+            <note type="source">http://scta.info/resource/adt-l7</note>
           </item>
           <item xml:id="Augustine_Confessions_10_29_40_a">
              <quote type="Patristic">Minus enim te amat qui tecum aliquid amat, quod non propter te amat.</quote> 
@@ -579,6 +600,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 27</note>
+            <note type="source">http://scta.info/resource/adt-l15</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_15_13_22_b">
              <quote type="Patristic">Quia in illius naturae simplicitate mirabili, non est aliud sapere, aliud esse;</quote> 
@@ -591,6 +613,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 27</note>
+            <note type="source">http://scta.info/resource/adt-l5</note>
           </item>
           
           <item xml:id="Augustine_onGenesis_4_6_12_a">
@@ -652,6 +675,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 28</note>
+            <note type="source">http://scta.info/resource/adt-l15</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_5_8_9_a">
              <quote type="Patristic">Situs vero et habitus et loca et tempora non proprie sed translate ac per similitudines dicuntur in Deo.</quote> 
@@ -664,6 +688,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, I, q. 29</note>
+            <note type="source">http://scta.info/resource/adt-l5</note>
           </item>
           
           <item xml:id="Augustine_DeTrinitate_15_20_38_a"> <!-- double check -->
@@ -677,6 +702,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Wodeham, I, d. 6, q. 1</note>
+            <note type="source">http://scta.info/resource/adt-l15</note>
           </item>
           <item xml:id="Augustine_DeCivitateDei_18_51_2_a">
              <quote type="Patristic">Sed rursus quoniam cogitantur immutabilia divina promissa, et quod ait Apostolus: Novit Dominus qui sunt eius; quos enim praescivit et praedestinavit conformes imaginis filii sui; ex eis perire nullus potest; ideo sequitur in illo Psalmo: Consolationes tuae iucundaverunt animam meam.</quote> 
@@ -758,6 +784,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, Book I, q. 29</note>
+            <note type="source">http://scta.info/resource/adt-l8</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_15_16_26_a">
              <quote type="Patristic">fortassis etiam volubiles non erunt nostrae cogitationes ab aliis in alia euntes atque redeuntes, sed omnem scientiam nostram uno simul conspectu videbimus:</quote>
@@ -770,6 +797,7 @@
              </bibl>
              <note type="citation">(PL 42)</note>
              <note type="firstIdentification">Gracilis, Book I, q. 29 <!-- second time in Wodeham I, prologue, question 2 --></note>
+            <note type="source">http://scta.info/resource/adt-l15</note>
           </item>
          <item xml:id="Augustine_Enchiridion_1_31_117_a">
            <quote type="Patristic">Iam porro caritas, quam duabus istis, id est fide ac spe, maiorem dicit Apostolus, quanto in quocumque maior est, tanto melior est in quo est</quote> 
@@ -794,6 +822,7 @@
            </bibl>
            <note type="citation">(PL 42)</note>
            <note type="firstIdentification">Gracilis, I, q. 11</note>
+           <note type="source">http://scta.info/resource/adt-l5</note>
          </item>
          <item xml:id="Augustine_DeGenesiAdLitteram_2_5_9_a">
            <quote type="Patristic">Maior est huius scripturae auctoritas quam omnis humani ingenii perspicacitas.</quote> 

@@ -73,6 +73,19 @@
              </bibl>
              <note type="citation">Aristoteles, De anima, III.5 (430a14-15)</note>
              <note type="firstIdentification">Gracilis, Librum I, q. 1</note> 
+             <note type="source">http://scta.info/resource/aristda-l3</note>
+           </item>
+           <item xml:id="Aristotle_DeAnima_III_8_a"> 
+             <quote>apis non est in anima, sed species lapidis.</quote> 
+             <bibl type="Aristotle_DeAnima">
+               <author ref="#Aristotle">Aristoteles</author>
+               <title ref="#deAnima">Posterior Analytics</title>
+               <biblScope type="librum">3</biblScope>
+               <biblScope type="capitulus">8</biblScope>
+             </bibl>
+             <note type="citation">Aristoteles, De anima, III.8 (431b29-432a1)</note>
+             <note type="firstIdentification">Plaoul, Lectio 20</note> 
+             <note type="source">http://scta.info/resource/aristda-l3</note>
            </item>
            
            <item xml:id="aa-ethica-1"> 

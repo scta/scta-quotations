@@ -40,18 +40,6 @@
              <note type="firstIdentification">Wodeham, Prologue, question 1</note>
             <note type="source">http://scta.info/resource/adt-l14</note>
           </item>
-          <item xml:id="Augustine_ContraEpistulamManichaei_5_6_a"> <!-- better id is: Augustine_contraEpistulamManichaei_5_6_a -->
-             <quote type="Patristic">Ego vero Euangelio non crederem, nisi me catholicae Ecclesiae commoveret auctoritas.</quote>
-             <!-- dbcheck source -->
-             <bibl type="contraEpistulamManichaei">
-                <author ref="#Augustine">Augustine</author>
-                <title ref="#contraEpistulamManichaei">Contra epistolam manichaei quam vocant fundamenti</title>
-                <biblScope type="chapter">5</biblScope>
-                <biblScope type="number">6</biblScope>
-             </bibl>
-             <note type="citation">PL 42:</note>
-             <note type="firstIdentification">Plaoul, Lectio 76</note> <!-- also present in D'Ailly I, q. 1, a. 3 -->
-          </item>
           <item xml:id="Augustine_DeTrinitate_13_7_10_a">
              <quote type="Patristic">securitas est maxima pars beatitudinis illorum</quote>
              <bibl type="Augustine_DeTrinitate">
@@ -836,6 +824,18 @@
            <bibl>Augustinus, De Genesi ad Litteram, II, 5, 9 (CSEL 28.1, 39; PL 34, 217)</bibl>
            <note type="firstIdentification">Gracilis, I, q. 1</note>
         </item>
+         <item xml:id="Augustine_ContraEpistolamManichaei_5_6_a">
+           <quote type="Patristic">Ego vero Evangelio non crederem, nisi me catholicae Ecclesiae commoveret auctoritas.</quote> 
+           <bibl type="Augustine_ContraEpistolamManichaei">
+             <author ref="#Augustine">Augustine</author>
+             <title ref="#ContraEpistolamManichaei">Contra epistolam Manichaei quam vocant fundamenti</title>
+             <biblScope type="capitulus">5</biblScope>
+             <biblScope type="capitulus">6</biblScope>
+           </bibl>
+           <bibl>Augustinus, Contra epistolam Manichaei quam vocant fundamenti, c. 5, n. 6</bibl>
+           <note type="firstIdentification">Plaoul, Lectio 76</note> <!-- also present in D'Ailly I, q. 1, a. 3 -->
+           <note type="source">http://scta.info/resource/augcem-c5</note>
+         </item>
       </list>
     </body>
   </text>

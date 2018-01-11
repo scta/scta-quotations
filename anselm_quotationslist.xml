@@ -172,6 +172,18 @@
                <note type="citation">Anselmus, Monologion, c. 48</note> 
                <note type="firstIdentification">Gracilis, Book 1, q. 24</note>  
             </item>
+           <item xml:id="Anselm_Proslogion_3_a">
+             <quote type="Scholastic">illud quo maius cogitari non potest</quote>
+             <bibl type="Anselm_Monologion">
+               <author ref="#Anselm">Anselm</author>
+               <title ref="#Proslogion">Proslogion</title>
+               <biblScope type="capitulus">3</biblScope>
+             </bibl>
+             <note type="citation">Anselmus, Prosologion, 3, (I, 103, ll. 1-2)</note> 
+             <note type="firstIdentification">Gracilis, Book 1, q. 8</note>  
+             <note type="source">http://scta.info/resource/adcpros-c3</note>  
+           </item>
+           
             
          </list>
       </body>

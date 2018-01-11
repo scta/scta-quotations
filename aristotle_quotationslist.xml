@@ -76,7 +76,7 @@
              <note type="source">http://scta.info/resource/aristda-l3</note>
            </item>
            <item xml:id="Aristotle_DeAnima_III_8_a"> 
-             <quote>apis non est in anima, sed species lapidis.</quote> 
+             <quote>lapis non est in anima, sed species lapidis.</quote> 
              <bibl type="Aristotle_DeAnima">
                <author ref="#Aristotle">Aristoteles</author>
                <title ref="#deAnima">Posterior Analytics</title>

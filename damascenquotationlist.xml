@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LombardPress Quote List</title>
+            <editor>Jeffrey C. Witt</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <list>
+            <item xml:id="JohnDamescenus_DeFide_I_4_a">
+               <quote type="Scholastic">Quod ex caritate institutum est contra caritatem non debet militare</quote>
+                <bibl type="amascdefide">
+                  <author ref="#JohnDamascenus">John Damascene</author>
+                  <title ref="#damascenusdefideorthodoxa">De fide orthodoxa</title>
+                  <biblScope type="liber">1</biblScope>
+                  <biblScope type="capitulus">4</biblScope>
+               </bibl>
+              <note type="citation">Ioannes Damescenus, De fide orthodoxa, I, c. 4, (PG 94.799BC); Burgundionis versio 4,5, p. 21, 41-45)</note>
+              <note type="source">http://scta.info/resource/jddfo-l1c4</note>
+            </item>
+         </list>
+      </body>
+  </text>
+</TEI>

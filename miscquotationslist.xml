@@ -37,15 +37,15 @@
                <note type="citation">Cassiodorus, Exposition of the Psalter, prologus (PL 70, 12)</note>
                <note type="firstIdentification">Gracilis, Book I, q. 32</note>
             </item>
-             
+
             <item>
-               <!-- this is frequent quote; see:  R Teske, 'The Wd as King over the Powers of the Souk Uses 
+               <!-- this is frequent quote; see:  R Teske, 'The Wd as King over the Powers of the Souk Uses
 and Sources of an Image in the Thirteenth Cenhiry," Vitmm 32 (1794), 62-71 for uses and sources-->
                <!-- quoted in Holcot book 1, q. 3 or rh-b1q3 -->
                <quote type="Patristic">Voluntas est regina in regno animae</quote>
             </item>
             <item>
-               <quote type="Scholastic">Ipsa movet omnia instrumenta in nobis et extra</quote> 
+               <quote type="Scholastic">Ipsa movet omnia instrumenta in nobis et extra</quote>
                <!-- supposed to be Anselm in De Concordia somewhere -->
                <!-- quoted in Holcot book 1, q. 3 or rh-b1q3 -->
             </item>
@@ -60,10 +60,7 @@ and Sources of an Image in the Thirteenth Cenhiry," Vitmm 32 (1794), 62-71 for u
              <note type="citation">Ambrose, Expositio Evangelii secundum Lucam, Book 1, 25 (PL ??, ??)</note>
              <note type="firstIdentification">Wodeham, Book I, prol., q. 32</note>
            </item>
-           
-           plenitudinem deitatis 
-           <lb ed="#S"/>quae habitat in christo nemo mente comprehendit
-         </list>
+        </list>
       </body>
   </text>
 </TEI>

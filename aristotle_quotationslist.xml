@@ -15,103 +15,176 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
-         <list>
-            <item xml:id="Aristotle_Topica_a"> <!-- location of quotation is currently unknown, lots of hits for uses by Aquinas -->
-               <quote>principia sunt quae non per alia, sed per se ipsa habent fidem</quote> <!-- need this quote from Aristoteles Latinus -->
-               <bibl type="Aristotle">
-                  <author ref="#Aristotle">Aristoteles</author>
-                  <title ref="#Topica">Topica</title>
-                  <biblScope type="librum">I</biblScope>
-                  <biblScope type="capitulus">?</biblScope>
-               </bibl>
-               <note type="citation">??</note>
-               <note type="firstIdentification">Rimini, D'Ailly</note>
-            </item>
-            <item xml:id="Aristotle_PosteriorAnalytics_1_2_a"> 
-               <quote>Scire est causam rei cognoscere</quote> 
-               <bibl type="Aristotle_PoseriorAnalytics">
-                  <author ref="#Aristotle">Aristoteles</author>
-                  <title ref="#PosteriorAnalytics">Posterior Analytics</title>
-                  <biblScope type="librum">1</biblScope>
-                  <biblScope type="capitulus">2</biblScope>
-               </bibl>
-               <note type="citation">Aristoteles, An. Post., I, 2, 71b9-12</note>
-               <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- Also item number 8 in auctoritates file --> 
-               <!-- also in Holcot, book II, q. 2, a. 8 -->
-            </item>
-            <item xml:id="Aristotle_Metaphysics_2_1_a"> <!-- also in auctoritates; aa-meta-42 -->
-               <quote>sicut se habet ad entitatem, sic se habet ad veritatem</quote> 
-               <bibl type="Aristotle_Metaphysics">
-                  <author ref="#Aristotle">Aristoteles</author>
-                  <title ref="#Metaphysics">Metaphysics</title>
-                  <biblScope type="librum">2</biblScope>
-                  <biblScope type="capitulus">1</biblScope>
-               </bibl>
-               <note type="citation">Aristoteles, Metaphysics, II, 1, 993b22-23 (AL 25.2, p. 37)</note> 
-               <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- also in auctoritates; aa-meta-42 -->
-            </item>
-            <item xml:id="Aristotle_PosteriorAnalytics_1_2_b"> 
-               <quote>Scire autem opinamur unumquodque simpliciter, sed non sophistico modo quod est secundum accidens, cum causam cognoscere arbitramur propter quam est res, quoniam illius est causa et non contingere hoc aliter se habere</quote> 
-               <bibl type="Aristotle_PoseriorAnalytics">
-                  <author ref="#Aristotle">Aristoteles</author>
-                  <title ref="#PosteriorAnalytics">Posterior Analytics</title>
-                  <biblScope type="librum">1</biblScope>
-                  <biblScope type="capitulus">2</biblScope>
-               </bibl>
-               <note type="citation">Aristoteles, An. Post., I, 2, 71b10-12 <!-- pg. 286 of Analytica Posteriora
- By Jacobus (Venetici.), --></note>
-               <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- see Aristotle_PosteriorAnalytics_1_2_a --> 
-            </item>
-           <item xml:id="Aristotle_DeAnima_III_5_a"> 
-             <quote>intellectus agens est potens omnia facere et intellectus possibilis omnia fieri</quote> 
-             <bibl type="Aristotle_DeAnima">
-               <author ref="#Aristotle">Aristoteles</author>
-               <title ref="#deAnima">Posterior Analytics</title>
-               <biblScope type="librum">3</biblScope>
-               <biblScope type="capitulus">5</biblScope>
+    <body>
+       <list>
+          <item xml:id="Aristotle_Topica_a"> <!-- location of quotation is currently unknown, lots of hits for uses by Aquinas -->
+             <quote>principia sunt quae non per alia, sed per se ipsa habent fidem</quote> <!-- need this quote from Aristoteles Latinus -->
+             <bibl type="Aristotle">
+                <author ref="#Aristotle">Aristoteles</author>
+                <title ref="#Topica">Topica</title>
+                <biblScope type="librum">I</biblScope>
+                <biblScope type="capitulus">?</biblScope>
              </bibl>
-             <note type="citation">Aristoteles, De anima, III.5 (430a14-15)</note>
-             <note type="firstIdentification">Gracilis, Librum I, q. 1</note> 
-             <note type="source">http://scta.info/resource/aristda-l3</note>
-           </item>
-           <item xml:id="Aristotle_DeAnima_III_8_a"> 
-             <quote>lapis non est in anima, sed species lapidis.</quote> 
-             <bibl type="Aristotle_DeAnima">
-               <author ref="#Aristotle">Aristoteles</author>
-               <title ref="#deAnima">Posterior Analytics</title>
-               <biblScope type="librum">3</biblScope>
-               <biblScope type="capitulus">8</biblScope>
+             <note type="citation">??</note>
+             <note type="firstIdentification">Rimini, D'Ailly</note>
+          </item>
+          <item xml:id="Aristotle_PosteriorAnalytics_1_2_a"> 
+             <quote>Scire est causam rei cognoscere</quote> 
+             <bibl type="Aristotle_PoseriorAnalytics">
+                <author ref="#Aristotle">Aristoteles</author>
+                <title ref="#PosteriorAnalytics">Posterior Analytics</title>
+                <biblScope type="librum">1</biblScope>
+                <biblScope type="capitulus">2</biblScope>
              </bibl>
-             <note type="citation">Aristoteles, De anima, III.8 (431b29-432a1)</note>
-             <note type="firstIdentification">Plaoul, Lectio 20</note> 
-             <note type="source">http://scta.info/resource/aristda-l3</note>
-           </item>
-           
-           <item xml:id="aa-ethica-1"> 
-             <quote>Omnia bonum appetunt</quote> 
-             <bibl type="Aristotle_Ethics">
-               <author ref="#Aristotle">Aristoteles</author>
-               <title ref="#Ethics">Ethics</title>
-               <biblScope type="librum">1</biblScope>
-               <biblScope type="capitulus">1</biblScope>
-             </bibl>
-             <note type="citation">Aristotle, Ethica, I.1 (1094a1-3)</note>
-             <note type="firstIdentification">Gracilis, Librum I, q. 2s</note> 
-           </item>
-           <item xml:id="Aristotle_Metaphysics_I_1_a"> 
-             <quote>omnes homines naturaliter scire desiderant</quote> 
+             <note type="citation">Aristoteles, An. Post., I, 2, 71b9-12</note>
+             <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- Also item number 8 in auctoritates file --> 
+             <!-- also in Holcot, book II, q. 2, a. 8 -->
+          </item>
+          <item xml:id="Aristotle_Metaphysics_2_1_a"> <!-- also in auctoritates; aa-meta-42 -->
+             <quote>sicut se habet ad entitatem, sic se habet ad veritatem</quote> 
              <bibl type="Aristotle_Metaphysics">
-               <author ref="#Aristotle">Aristoteles</author>
-               <title ref="#Metaphysics">Metaphysics</title>
-               <biblScope type="librum">1</biblScope>
-               <biblScope type="capitulus">1</biblScope>
+                <author ref="#Aristotle">Aristoteles</author>
+                <title ref="#Metaphysics">Metaphysics</title>
+                <biblScope type="librum">2</biblScope>
+                <biblScope type="capitulus">1</biblScope>
              </bibl>
-             <note type="citation">Aristoteles, Metaphysica, 1.1 (xxx)</note>
-             <note type="firstIdentification"></note> 
-             <note type="source">http://scta.info/resource/aristmet-l1</note>
-           </item>
-         </list>
-      </body>
+             <note type="citation">Aristoteles, Metaphysics, II, 1, 993b22-23 (AL 25.2, p. 37)</note> 
+             <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- also in auctoritates; aa-meta-42 -->
+          </item>
+          <item xml:id="Aristotle_PosteriorAnalytics_1_2_b"> 
+             <quote>Scire autem opinamur unumquodque simpliciter, sed non sophistico modo quod est secundum accidens, cum causam cognoscere arbitramur propter quam est res, quoniam illius est causa et non contingere hoc aliter se habere</quote> 
+             <bibl type="Aristotle_PoseriorAnalytics">
+                <author ref="#Aristotle">Aristoteles</author>
+                <title ref="#PosteriorAnalytics">Posterior Analytics</title>
+                <biblScope type="librum">1</biblScope>
+                <biblScope type="capitulus">2</biblScope>
+             </bibl>
+             <note type="citation">Aristoteles, An. Post., I, 2, 71b10-12 <!-- pg. 286 of Analytica Posteriora
+By Jacobus (Venetici.), --></note>
+             <note type="firstIdentification">Henricus de Werl, I, prol., q. 2</note> <!-- see Aristotle_PosteriorAnalytics_1_2_a --> 
+          </item>
+         <item xml:id="Aristotle_DeAnima_III_5_a"> 
+           <quote>intellectus agens est potens omnia facere et intellectus possibilis omnia fieri</quote> 
+           <bibl type="Aristotle_DeAnima">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#deAnima">Posterior Analytics</title>
+             <biblScope type="librum">3</biblScope>
+             <biblScope type="capitulus">5</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, De anima, III.5 (430a14-15)</note>
+           <note type="firstIdentification">Gracilis, Librum I, q. 1</note> 
+           <note type="source">http://scta.info/resource/aristda-l3</note>
+         </item>
+         <item xml:id="Aristotle_DeAnima_III_8_a"> 
+           <quote>lapis non est in anima, sed species lapidis.</quote> 
+           <bibl type="Aristotle_DeAnima">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#deAnima">Posterior Analytics</title>
+             <biblScope type="librum">3</biblScope>
+             <biblScope type="capitulus">8</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, De anima, III.8 (431b29-432a1)</note>
+           <note type="firstIdentification">Plaoul, Lectio 20</note> 
+           <note type="source">http://scta.info/resource/aristda-l3</note>
+         </item>
+         
+         <item xml:id="aa-ethica-1"> 
+           <quote>Omnia bonum appetunt</quote> 
+           <bibl type="Aristotle_Ethics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Ethics">Ethics</title>
+             <biblScope type="librum">1</biblScope>
+             <biblScope type="capitulus">1</biblScope>
+           </bibl>
+           <note type="citation">Aristotle, Ethica, I.1 (1094a1-3)</note>
+           <note type="firstIdentification">Gracilis, Librum I, q. 2s</note> 
+         </item>
+         <item xml:id="Aristotle_Metaphysics_I_1_a"> 
+           <quote>omnes homines naturaliter scire desiderant</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">1</biblScope>
+             <biblScope type="capitulus">1</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 1.1 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l1</note>
+         </item>
+         <item xml:id="Aristotle_Metaphysics_12_a"> 
+           <quote>Unum tantum est caelum et non plures</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">12</biblScope>
+             <biblScope type="capitulus">XXXX</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 12 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l12</note>
+         </item>
+         <item xml:id="Aristotle_Metaphysics_12_b"> 
+           <quote>Primum principium extra se nihil intelligit</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">12</biblScope>
+             <biblScope type="capitulus">XXXX</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 12 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l12</note>
+         </item>
+         <item xml:id="Aristotle_Metaphysics_12_c"> 
+           <quote>In separatis a materia idem est intelligens et intellectum</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">12</biblScope>
+             <biblScope type="capitulus">XXXX</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 12 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l12</note>
+         </item>
+         <item xml:id="Aristotle_Metaphysics_12_d"> 
+           <quote>Bonum universi consistit in ordine quia omnia habent ordinem licet non eodem modo</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">12</biblScope>
+             <biblScope type="capitulus">XXXX</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 12 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l12</note>
+         </item>
+         <item xml:id="Aristotle_Metaphysics_12_e"> 
+           <quote>Etiam bonum universi consistit in primo principio ad quod omnia ordinantur</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">12</biblScope>
+             <biblScope type="capitulus">XXXX</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 12 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l12</note>
+         </item>
+         <item xml:id="Aristotle_Metaphysics_12_f"> 
+           <quote>Entia nolunt male disponi 
+             nec est bonum pluralitas principatum sit ergo unus princeps</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">12</biblScope>
+             <biblScope type="capitulus">XXXX</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 12 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l12</note>
+         </item>
+       </list>
+    </body>
   </text>
 </TEI>

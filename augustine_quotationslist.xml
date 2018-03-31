@@ -837,6 +837,19 @@
            <note type="firstIdentification">Plaoul, Lectio 76</note> <!-- also present in D'Ailly I, q. 1, a. 3 -->
            <note type="source">http://scta.info/resource/augcem-c5</note>
          </item>
+         <item xml:id="Augustine_InIohanne_5_6_a">
+           <quote type="Patristic">Baptismus talis est, qualis est ille, in cuius potestate datur, non qualis est ille, per cuius ministerium datur</quote> 
+           <bibl type="Augustine_InIohanne">
+             <author ref="#Augustine">Augustine</author>
+             <title ref="#InIohanne">In Ioanne Evangelium</title>
+             <biblScope type="tr">5</biblScope>
+             <biblScope type="n">6</biblScope>
+           </bibl>
+           <bibl>Augustinus, In Ioan Evang., tr. 5, n. 6</bibl>
+           <note type="firstIdentification">Lombard, Sent., IV, d. 5, c. 1</note>
+           <note type="source">http://scta.info/resource/aihet-t5</note>
+         </item>
+          
       </list>
     </body>
   </text>

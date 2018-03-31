@@ -822,7 +822,7 @@
              <biblScope type="capitulus">4</biblScope>
              <biblScope type="capitulus">9</biblScope>
            </bibl>
-           <bibl>Augustinus, De Genesi ad Litteram, II, 5, 9 (CSEL 28.1, 39; PL 34, 217)</bibl>
+           <bibl type="citation">Augustinus, De Genesi ad Litteram, II, 5, 9 (CSEL 28.1, 39; PL 34, 217)</bibl>
            <note type="firstIdentification">Gracilis, I, q. 1</note>
         </item>
          <item xml:id="Augustine_ContraEpistolamManichaei_5_6_a">
@@ -833,7 +833,7 @@
              <biblScope type="capitulus">5</biblScope>
              <biblScope type="capitulus">6</biblScope>
            </bibl>
-           <bibl>Augustinus, Contra epistolam Manichaei quam vocant fundamenti, c. 5, n. 6</bibl>
+           <bibl type="citation">Augustinus, Contra epistolam Manichaei quam vocant fundamenti, c. 5, n. 6</bibl>
            <note type="firstIdentification">Plaoul, Lectio 76</note> <!-- also present in D'Ailly I, q. 1, a. 3 -->
            <note type="source">http://scta.info/resource/augcem-c5</note>
          </item>
@@ -845,7 +845,7 @@
              <biblScope type="tr">5</biblScope>
              <biblScope type="n">6</biblScope>
            </bibl>
-           <bibl>Augustinus, In Ioan Evang., tr. 5, n. 6</bibl>
+           <bibl type="citation">Augustinus, In Ioan Evang., tr. 5, n. 6</bibl>
            <note type="firstIdentification">Lombard, Sent., IV, d. 5, c. 1</note>
            <note type="source">http://scta.info/resource/aihet-t5</note>
          </item>

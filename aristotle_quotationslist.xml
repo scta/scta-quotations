@@ -99,6 +99,18 @@
              <note type="citation">Aristotle, Ethica, I.1 (1094a1-3)</note>
              <note type="firstIdentification">Gracilis, Librum I, q. 2s</note> 
            </item>
+           <item xml:id="Aristotle_Metaphysics_I_1_a"> 
+             <quote>omnes homines naturaliter scire desiderant</quote> 
+             <bibl type="Aristotle_Metaphysics">
+               <author ref="#Aristotle">Aristoteles</author>
+               <title ref="#Metaphysics">Metaphysics</title>
+               <biblScope type="librum">1</biblScope>
+               <biblScope type="capitulus">1</biblScope>
+             </bibl>
+             <note type="citation">Aristoteles, Metaphysica, 1.1 (xxx)</note>
+             <note type="firstIdentification"></note> 
+             <note type="source">http://scta.info/resource/aristmet-l1</note>
+           </item>
          </list>
       </body>
   </text>

@@ -842,13 +842,39 @@
            <bibl type="Augustine_InIohanne">
              <author ref="#Augustine">Augustine</author>
              <title ref="#InIohanne">In Ioanne Evangelium</title>
-             <biblScope type="tr">5</biblScope>
-             <biblScope type="n">6</biblScope>
+             <biblScope type="capitulus">5</biblScope>
+             <biblScope type="capitulus">6</biblScope>
            </bibl>
            <bibl type="citation">Augustinus, In Ioan Evang., tr. 5, n. 6</bibl>
            <note type="firstIdentification">Lombard, Sent., IV, d. 5, c. 1</note>
            <note type="source">http://scta.info/resource/aihet-t5</note>
          </item>
+          
+         <item xml:id="Augustine_DeTrinitate_I_a">
+           <quote type="Patristic">ubi quaeritur unitas Trinitatis, Patris scilicet et Filii et Spiritus sancti, quia nec periculosius alicubi erratur, nec laboriosius aliquid quaeritur, nec fructuosius aliquid invenitur</quote> 
+           <bibl type="Augustine_DeTrinitate">
+             <author ref="#Augustine">Augustine</author>
+             <title ref="#DeTrinitate">De Trinitate</title>
+             <biblScope type="tr">5</biblScope>
+             <biblScope type="n">6</biblScope>
+           </bibl>
+           <bibl type="citation"> Augustinus, De Trinitate, I, c. 3, n. 5 (PL 42:822)</bibl>
+           <note type="firstIdentification"></note>
+           <note type="source">http://scta.info/resource/adt-l1</note>
+         </item>
+         <item xml:id="Augustine_DeTrinitate_I_b">
+           <quote type="Patristic">Non pigebit me, inquit, sicubi P6ra haesito, quaerere, nec pudebit, sicubi erro, discere. Quisquis ergo haec audit vel legit, ubi pariter certus est, pergat mecum; ubi pariter haesitat, quaerat mecum; ubi errorem suum cognoscit, redeat ad me; ubi meum, revocet me. Ita ingrediamur simul caritatis viam, tendentes ad eum de quo dictum est: "Quaerite faciem eius semper"</quote> 
+           <bibl type="Augustine_DeTrinitate">
+             <author ref="#Augustine">Augustine</author>
+             <title ref="#DeTrinitate">De Trinitate</title>
+             <biblScope type="caput">5</biblScope>
+             <biblScope type="caput">7</biblScope>
+           </bibl>
+           <bibl type="citation">Augustinus, De Trinitate, I, c. 4, n. 7 (PL 42:824)</bibl>
+           <note type="firstIdentification"></note>
+           <note type="source">http://scta.info/resource/adt-l1</note>
+         </item>
+         
           
       </list>
     </body>

@@ -111,6 +111,21 @@ By Jacobus (Venetici.), --></note>
            <note type="firstIdentification"></note> 
            <note type="source">http://scta.info/resource/aristmet-l1</note>
          </item>
+         <item xml:id="Aristotle_Metaphysics_2_a"> 
+           <quote>>Sicut se habet oculus nocticoracis ad lumen solis 
+             <lb ed="#P"/>vel diei sic se habet noster intellectus ad manifestissima 
+             naturae ad deum et ad substantias separatas 
+             et ad naturas rerum subtilium</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Metaphysics">Metaphysics</title>
+             <biblScope type="librum">2</biblScope>
+             <biblScope type="capitulus">?</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Metaphysica, 2 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristmet-l2</note>
+         </item>
          <item xml:id="Aristotle_Metaphysics_12_a"> 
            <quote>Unum tantum est caelum et non plures</quote> 
            <bibl type="Aristotle_Metaphysics">

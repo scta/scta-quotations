@@ -62,6 +62,7 @@
                 <biblScope type="capitulus">33</biblScope>
              </bibl>
              <note type="citation"/>
+            <note type="source">http://scta.info/resource/aconf-l10</note>
           </item>
           
           <item xml:id="Augustine_DeLiberoArbitrio_3_3_7_a">
@@ -564,6 +565,7 @@
              </bibl>
              <note type="citation">Confessionum, X, 29, 40 (PL 32)</note>
              <note type="firstIdentification">Gracilis, I, q. 26</note>
+            <note type="source">http://scta.info/resource/aconf-l10</note>
           </item>
            <item xml:id="Augustine_Confessions_1_1_1_a">
            	<quote type="Patristic">Tu excitas, ut laudare te delectet, quia fecisti nos ad te et inquietum est cor nostrum, donec requiescat in te.</quote> 

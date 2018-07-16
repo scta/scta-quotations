@@ -75,6 +75,7 @@
                 <biblScope type="capitulus">7</biblScope>
              </bibl>
              <note type="citation"/>
+            <note type="source">http://scta.info/resource/adla-l3</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_3_1_1_a">
              <quote type="Patristic">Pro studio, quo fidem nostram adversus errorem carnalium et animalium hominum muniri inardesco, necesse est me pati</quote>
@@ -145,6 +146,7 @@
              </bibl>
              <note type="citation">PL 34, 19</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 1 (I:14)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_2_2_b">
             <quote type="Patristic">Ex quo intellegitur quid appellem signa: 
@@ -160,6 +162,7 @@
              </bibl>
              <note type="citation">PL 34, 19</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 1 (I:14)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_2_2_c">
              <quote type="Patristic">memoriterque teneamus id nunc in rebus considerandum esse quod sunt, 
@@ -181,6 +184,7 @@
              </bibl>
              <note type="citation">PL 34, 19</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 2 (I:15)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_4_4_a">
              <quote type="Patristic">Frui est enim amore inhaerere alicui rei propter seipsam. 
@@ -195,6 +199,7 @@
              </bibl>
              <note type="citation">PL 34, 20</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 2 (I:15)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_5_5_a">
              <quote type="Patristic">Res igitur quibus fruendum est, 
@@ -213,6 +218,7 @@
              </bibl>
              <note type="citation">PL 34, 20</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 2 (I:15)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_4_4_b">
              <quote type="Patristic">utendum est hoc mundo, non fruendum, 
@@ -227,6 +233,7 @@
              </bibl>
              <note type="citation">PL 34, 20</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 2 (I:15)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_1_22_20_a">
              <quote type="Patristic">In his igitur omnibus rebus illae tantum sunt quibus fruendum est, 
@@ -241,6 +248,7 @@
              </bibl>
              <note type="citation">PL 34, XX</note>
              <note type="firstIdentification">Lombard, Book I, distinction 1, c. 2 (I:15)</note> <!-- oddly lombard edition says this quote is in c. 5 -->
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_10_10_13_a">
              <quote type="Patristic">Fruimur enim cognitis, in quibus voluntas ipsis propter se ipsa delectata conquiescit; 
@@ -279,7 +287,8 @@
                 <biblScope type="capitulus">31</biblScope>
              </bibl>
              <note type="citation">PL 39, 30</note> <!-- db check -->
-             <note type="firstIdentification">Lombard, Book I, distinction 1, c. 3 (I:16)</note> 
+             <note type="firstIdentification">Lombard, Book I, distinction 1, c. 3 (I:16)</note>
+            <note type="source">http://scta.info/resource/addc-l1</note>
           </item>
           <item xml:id="Augustine_DeLiberoArbitrio_3_6_18_a">
              <quote type="Patristic">Si enim quis dixerit, Non esse, quam miserum me esse mallem: respondebo, Mentiris. Nam et nunc miser es, nec ob aliud mori non vis, nisi ut sis: ita cum miser nolis esse, esse vis tamen</quote> 
@@ -291,7 +300,8 @@
                 <biblScope type="capitulus">18</biblScope>
              </bibl>
              <note type="citation">PL 32, ?</note> <!-- db check -->
-             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346a]</note> 
+             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346a]</note>
+            <note type="source">http://scta.info/resource/adla-l3</note>
           </item>
           <item xml:id="Augustine_DeLiberoArbitrio_3_7_20_a">
              <quote type="Patristic">Si dixerit: Ideo magis volo vel miser esse, quam omnino non esse, quia iam sum; si autem priusquam essem possem consuli, eligerem non esse potius quam ut essem miser. Nunc enim quod timeo non esse cum miser sim, ad ipsam miseriam pertinet, qua non id volo, quod velle deberem; magis enim non esse, quam miser esse velle deberem. Nunc vero fateor me quidem malle vel miserum esse quam nihil; sed tanto stultius id volo, quanto miserius: tanto autem miserius, quanto verius video non hoc me velle debuisse. Respondebo: Cave potius ne hic erres, ubi te videre verum putas. Nam si beatus esses, utique esse quam non esse malles; et nunc miser cum sis, mavis tamen esse vel miser quam omnino non esse, cum esse nolis miser. Considera igitur, quantum potes, quam magnum bonum sit ipsum esse, quod et beati et miseri volunt.</quote> 
@@ -303,7 +313,8 @@
                 <biblScope type="capitulus">20</biblScope>
              </bibl>
              <note type="citation">PL 32, ?</note> <!-- db check -->
-             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346b]</note> 
+             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346b]</note>
+            <note type="source">http://scta.info/resource/adla-l3</note>
           </item>
           <item xml:id="Augustine_DeLiberoArbitrio_3_8_23_a">
              <quote type="Patristic">Cum ergo quisque credens quod post mortem non erit, intolerabilibus tamen molestiis ad totam cupiditatem mortis impellitur, et decernit atque arripit mortem; in opinione habet errorem omnimodae defectionis, in sensu autem naturale desiderium quietis. Quod autem quietum est, non est nihil; imo etiam magis est quam id quod inquietum est.</quote> 
@@ -315,7 +326,8 @@
                 <biblScope type="capitulus">23</biblScope>
              </bibl>
              <note type="citation">PL 32, ?</note> <!-- db check -->
-             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346b]</note> 
+             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346b]</note>
+            <note type="source">http://scta.info/resource/adla-l3</note>
           </item>
           <item xml:id="Augustine_DeLiberoArbitrio_3_8_23_b">
              <quote type="Patristic">Inquietudo enim variat affectiones, ut altera alteram perimat: quies autem habet constantiam, in qua maxime intellegitur quod dicitur, est. Omnis itaque ille appetitus in voluntate mortis, non ut qui moritur non sit, sed ut requiescat intenditur. Ita cum errore credat non se futurum, natura tamen quietus esse, hoc est magis esse desiderat. Quapropter, sicut nullo pacto fieri potest ut non esse aliquem libeat; ita nullo pacto fieri oportet ut ex eo quod est quisque, bonitati Creatoris ingratus sit.</quote> 
@@ -327,18 +339,20 @@
                 <biblScope type="capitulus">23</biblScope>
              </bibl>
              <note type="citation">PL 32, ?</note> <!-- db check -->
-             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346b]</note> 
+             <note type="firstIdentification">Holcot, Book III, q. 1, a. 2, subarticle 1 [PDF 346b]</note>
+            <note type="source">http://scta.info/resource/adla-l3</note>
           </item>
           <item xml:id="Augustine_Confessionum_1_12_a">
              <quote type="Patristic">Nemo autem invitus bene facit, etiamsi bonum est quod facit.</quote> 
              <bibl type="Augustine_Confessionum">
                 <author ref="#Augustine">Augustine</author>
-                <title ref="#Augustine_Confessionum">De libero arbitrio</title>
+                <title ref="#Augustine_Confessionum">Confessions</title>
                 <biblScope type="librum">1</biblScope>
                 <biblScope type="capitulus">12</biblScope>
              </bibl>
              <note type="citation">PL 32, 669</note> <!-- db check -->
              <note type="firstIdentification">Wodeham, Ordinatio, prologue, q. 1</note> 
+            <note type="source">http://scta.info/resource/aconf-l1</note>
           </item>
           <item xml:id="Augustine_DeDoctrinaChristiana_3_10_a">
              <quote type="Patristic">Caritatem voco motum animi ad fruendum Deo propter ipsum</quote> 
@@ -350,6 +364,7 @@
              </bibl>
              <note type="citation">PL 34, 72</note> <!-- db check -->
              <note type="firstIdentification">Gracilis, B I, q. 16</note> <!-- also in Aquinas, Summa theologiae II-II, 23, 2 -->
+            <note type="source">http://scta.info/resource/addc-l3</note>
           </item>
           <item xml:id="Augustine_Confessionum_13_9_10_a">
              <quote type="Patristic">pondus meum amor meus</quote> 
@@ -362,6 +377,7 @@
              </bibl>
              <note type="citation">PL 32, 849</note>
              <note type="firstIdentification">Gracilis, B I, q. 16</note> <!-- also in Aquinas, Summa theologiae II-II, 23, 2 -->
+            <note type="source">http://scta.info/resource/aconf-l13</note>
           </item>
           <item xml:id="Augustine_DeTrinitate_15_17_29_a">
              <quote type="Patristic">Et tamen non frustra in hac trinitate non dicitur verbum dei nisi filius, nec donum dei nisi spiritus sanctus, nec e quo genitum est verbum et de quo procedit principaliter spiritus sanctus nisi deus pater. Ideo autem addendi, principaliter, quia et de filio spiritus sanctus procedere reperitur</quote> 

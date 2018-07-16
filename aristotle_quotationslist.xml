@@ -199,6 +199,19 @@ By Jacobus (Venetici.), --></note>
            <note type="firstIdentification"></note> 
            <note type="source">http://scta.info/resource/aristmet-l12</note>
          </item>
+         
+         <!-- ethics -->
+         <item xml:id="Aristotle_Ethics_1_a"> 
+           <quote>Omnia bonum appetunt</quote> 
+           <bibl type="Aristotle_Metaphysics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Ethics">Ethics</title>
+             <biblScope type="librum">1</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Ethics, 1 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristneth-l1</note>
+         </item>
        </list>
     </body>
   </text>

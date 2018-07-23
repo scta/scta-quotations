@@ -212,6 +212,19 @@ By Jacobus (Venetici.), --></note>
            <note type="firstIdentification"></note> 
            <note type="source">http://scta.info/resource/aristneth-l1</note>
          </item>
+         <!-- politics -->
+         <item xml:id="Aristotle_Politica_1_a"> 
+           <quote>Homo naturaliter est animal politicum et civile</quote> 
+           <bibl type="Aristotle_Politics">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#Ethics">Politics</title>
+             <biblScope type="librum">1</biblScope>
+           </bibl>
+           <note type="citation">Aristoteles, Politics, 1 (xxx)</note>
+           <note type="firstIdentification"></note> 
+           <note type="source">http://scta.info/resource/aristpoli-l1</note>
+         </item>
+         
        </list>
     </body>
   </text>

@@ -3,12 +3,15 @@
 	<verse id="lc10_23"/>
   <verse id="lc10_28"/>
   <verse id="sir3_1"/>
+  <verse id="sir3_22"/>
   <verse id="sir5_4"/>
   <verse id="sir9_9"/>
   <verse id="sir9_11"/>
   <verse id="sir13_14"/>
   <verse id="sir13_19"/>
-  <verse id="sir3_22"/>
+  <verse id="sir39_40"/>
+  
+  
   
   <verse id="qoh3_19"/>
   <verse id="prov7_21"/>
@@ -54,12 +57,14 @@
 	<verse id="Icor13_3"/>
 
 	<verse id="eph5_29"/>
+  <verse id="eph5_31"/>
   <verse id="eph5_3"/>
   <verse id="eph5_5"/>
 	<verse id="eph5_8"/>
   <verse id="eph5_16"/>
   <verse id="eph5_18"/>
   <verse id="eph5_23"/>
+  <verse id="eph5_32"/>
 	<verse id="eph3_9"/>
 	<verse id="eph3_10"/>
   <verse id="eph3_15"/>
@@ -301,9 +306,11 @@
 
 
 	<verse id="lc2_21"/>
+  <verse id="lc2_35"/>
 
   <verse id="gal4_3"/>
 	<verse id="gal4_4"/>
+  <verse id="gal4_5"/>
   <verse id="io13_2"/>
 	<verse id="io13_15"/>
   <verse id="io13_34"/>
@@ -578,6 +585,7 @@
 	<verse id="lc1_35"/>
 
 	<verse id="act2_3"/>
+  <verse id="act2_4"/>
   <verse id="act23_3"/>
 
 
@@ -602,6 +610,7 @@
   <verse id="ez1_8"/>
 	<verse id="ez1_12"/>
   <verse id="ez6_49"/>
+  <verse id="ez16_3"/>
   <verse id="ez16_45"/>
 
 	<verse id="Icor15_10"/>
@@ -640,6 +649,7 @@
   <verse id="rom3_18"/>
   <verse id="rom3_20"/>
   <verse id="rom3_22"/>
+  <verse id="rom3_23"/>
   <verse id="rom3_24"/>
   <verse id="rom3_25"/>
   <verse id="rom4_4"/>
@@ -845,6 +855,7 @@
 	
 
 	<verse id="eph1_5"/>
+  <verse id="eph1_9"/>
   <verse id="dan1_9"/>
   <verse id="dan4_24"/>
   <verse id="dan10_13"/>
@@ -882,6 +893,7 @@
   <verse id="sap5_38"/>
   <verse id="sap7_22"/>
   <verse id="sap7_24"/>
+  <verse id="sap7_25"/>
 	<verse id="sap7_27"/>
   <verse id="sap7_28"/>
 
@@ -929,6 +941,7 @@
 	<verse id="rom9_16"/>
   
   <verse id="is11_2"/>
+  <verse id="is16_1"/>
   <verse id="is14_11"/>
 	<verse id="is14_14"/>
   <verse id="is18_2"/>
@@ -1180,6 +1193,7 @@
 	<verse id="gen1_31"/>
 
 	<verse id="col1_13"/>
+  <verse id="col1_19"/>
 
 
 
@@ -1425,6 +1439,7 @@
   <verse id="ps7_10"/>
 	<verse id="ps70_5"/>
   <verse id="ps72_28"/>
+  <verse id="ps73_20"/>
   <verse id="ps77_49"/>
 
 	<verse id="ps90_9"/>
@@ -1449,6 +1464,7 @@
 
 	<verse id="IIpara2_9"/>
 
+  <verse id="io3_31"/>
 	<verse id="io3_34"/>
 
 	<verse id="Itim2_5"/>
@@ -1476,6 +1492,7 @@
 
 	<verse id="lc1_17"/>
   <verse id="lc1_19"/>
+  <verse id="lc1_44"/>
   <verse id="lc1_45"/>
 
 	<verse id="num11_17"/>
@@ -1522,6 +1539,7 @@
   <verse id="ap1_4"/>
   <verse id="ap1_5"/>
 	<verse id="ap4_8"/>
+  <verse id="ap6_11"/>
   <verse id="ap16_11"/>
   <verse id="ap21_18"/>
 	<verse id="ap19_12"/>
@@ -1616,10 +1634,11 @@
 	
 
 	<verse id="eph1:4"/>
-
+  <verse id="is64_1"/>
 	<verse id="is64_4"/>
 
 	<verse id="iac1_17"/>
+  <verse id="iac1_21"/>
   <verse id="iac1_2"/>
 	
 
@@ -1706,6 +1725,7 @@
   <verse id="Icor7_25"/>
   <verse id="Icor7_28"/>
 
+  <verse id="ps11_6"/>
 	<verse id="ps113_11"/>
 
 	<verse id="rom9_19"/>
@@ -1731,12 +1751,14 @@
   <verse id="mt4_8"/>
   <verse id="mt4_10"/>
   <verse id="mt4_11"/>
+  <verse id="mt4_12"/>
   <verse id="mt5_3"/>
   <verse id="mt5_5"/>
   <verse id="mt5_6"/>
   <verse id="mt5_7"/>
   <verse id="mt5_8"/>
   <verse id="mt5_10"/>
+  <verse id="mt5_11"/>
   <verse id="mt5_16"/>
   <verse id="mt5_17"/>
   <verse id="mt5_18"/>
@@ -1834,8 +1856,10 @@
   <verse id="mt12_45"/>
   <verse id="mt12_50"/>
   <verse id="mt13_30"/>
+  <verse id="mt13_33"/>
   <verse id="mt13_41"/>
   <verse id="mt13_43"/>
+  <verse id="mt13_47"/>
   <verse id="mt13_48"/>
   <verse id="mt15_14"/>
   <verse id="mt15_16"/>
@@ -2022,6 +2046,7 @@
   <verse id="iob30_17"/>
   <verse id="iob30_1"/>
   <verse id="iob31_12"/>
+  <verse id="iob31_18"/>
   <verse id="iob31_27"/>
   <verse id="iob32_7"/>
   <verse id="iob33_2"/>
@@ -2165,7 +2190,7 @@
   <verse id="gal6_10"/>
   <verse id="gal6_15"/>
 
-
+  <verse id="ier1_5"/>
   <verse id="ier9_21"/>
   <verse id="ier10_23"/>
   <verse id="ier17_10"/>
@@ -2174,6 +2199,7 @@
   <verse id="ier20_14"/>
 
 	<verse id="lc24_28"/>
+  <verse id="lc24_39"/>
 
 	<verse id="lc24_28"/>
 
@@ -2359,6 +2385,7 @@
   
   <verse id="Icor5_5"/>
   <verse id="Icor5_6"/>
+  <verse id="Icor5_7"/>
   <verse id="Icor5_13"/>
   <verse id="Icor10_4"/>
   <verse id="Icor10_21"/>
@@ -2428,6 +2455,7 @@
 	
 
 	<verse id="io11_50"/>
+  <verse id="io11_3"/>
 
 	<verse id="act5_39"/>
 
@@ -2458,6 +2486,8 @@
   <verse id="Iio2_16"/>
   <verse id="Iio2_18"/>
 	<verse id="Iio2_27"/>
+  <verse id="prov4_3"/>
+  <verse id="prov4_4"/>
   <verse id="prov4_24"/>
 	<verse id="prov8_17"/>
   <verse id="prov30_11"/>
@@ -2467,6 +2497,7 @@
 
 	<verse id="io14_23"/>
 
+  <verse id="tit3_4"/>
 	<verse id="tit3_5"/>
   <verse id="tit3_24"/>
   <verse id="tit3_10"/>
@@ -2519,6 +2550,7 @@
   <verse id="Ipetr2_4"/>
   <verse id="Ipetr2_17"/>
   <verse id="Ipetr2_18"/>
+  <verse id="Ipetr4_10"/>
 	<verse id="Ipetr5_8"/>
 
 
@@ -2598,6 +2630,7 @@
 	<verse id="gal4_4"/>
   <verse id="hebr2_10"/>
   <verse id="hebr2_14"/>
+  <verse id="hebr2_15"/>
 	<verse id="hebr2_16"/>
 
 	<verse id="io1_3"/>
@@ -2657,6 +2690,7 @@
 
 	<verse id="IIcor5_14"/>
   
+  <verse id="qoh3_1"/>
   <verse id="qoh3_4"/>
   <verse id="qoh3_7"/>
   <verse id="qoh3_19"/>
@@ -2689,12 +2723,14 @@
   
   <verse id="IItim2_5"/>
   <verse id="IItim2_6"/>
+  <verse id="IItim2_12"/>
   <verse id="IItim2_13"/>
   <verse id="IItim2_14"/>
   <verse id="IIth2_5"/>
   <verse id="IItim4_3"/>
   <verse id="IItim4_8"/>
   <verse id="ps22_5"/>
+  <verse id="ps23_1"/>
 	<verse id="ps23_8"/>
   <verse id="ps25_2"/>
 	<verse id="ps25_5"/>
@@ -2730,6 +2766,7 @@
   <verse id="Icor15_41"/>
   <verse id="Icor15_44"/>
   <verse id="Icor15_45"/>
+  <verse id="Icor15_47"/>
   <verse id="Icor15_48"/>
   <verse id="Icor15_56"/>
   <verse id="Icor15_57"/>
@@ -2769,6 +2806,7 @@
 
 	<verse id="lc1_15"/>
   <verse id="lc1_26"/>
+  <verse id="lc1_28"/>
 
 	<verse id="lc1_15"/>
 
@@ -2776,8 +2814,9 @@
   <verse id="sap1_11"/>
   <verse id="sap1_13"/>
 
-	<verse id="rom"/>
-
+	
+  <verse id="hebr7_9"/>
+  <verse id="hebr7_25"/>
 	<verse id="hebr7_26"/>
 
 	<verse id="io10_36"/>
@@ -2839,6 +2878,7 @@
   
   <verse id="sir21_30"/>
 	<verse id="sir24_14"/>
+  <verse id="sir24_16"/>
 
 	<verse id="io14_28"/>
 
@@ -3027,6 +3067,7 @@
   <verse id="gen3_11"/>
   <verse id="gen3_12"/>
   <verse id="gen3_13"/>
+  <verse id="gen3_15"/>
   <verse id="gen3_17"/>
 	<verse id="gen3_19"/>
   <verse id="gen3_20"/>

@@ -1091,6 +1091,7 @@
   <verse id="IIcor12_14"/>
 	
 	<verse id="IItim3_16"/>
+  <verse id="IItim3_17"/>
 	<verse id="IItim4_4"/>
 
 	<verse id="col2_23"/>
@@ -1371,7 +1372,7 @@
 
 	<verse id="is9_6"/>
   <verse id="is9_16"/>
-  
+  <verse id="lc4_8"/>
   <verse id="lc4_9"/>
   <verse id="lc4_10"/>
 	<verse id="lc4_18"/>
@@ -1437,7 +1438,7 @@
 
 
 
-
+  <verse id="ps7_1"/>
   <verse id="ps7_10"/>
 	<verse id="ps70_5"/>
   <verse id="ps72_28"/>
@@ -2171,6 +2172,7 @@
 	<verse id="Ipetr3_15"/>
 
 	<verse id="io6_60"/>
+  <verse id="io6_64"/>
 
 	<verse id="hebr4_12"/>
 
@@ -2340,6 +2342,7 @@
 
 	<verse id="ps52_1"/>
   <verse id="ps55_4"/>
+  <verse id="ps5_8"/>
   <verse id="ps5_9"/>
 
 	<verse id="io1_18"/>

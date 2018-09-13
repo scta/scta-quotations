@@ -38,6 +38,7 @@
   <verse id="prov20_3"/>
   <verse id="prov20_4"/>
   <verse id="prov20_9"/>
+  <verse id="prov20_24"/>
   <verse id="prov24_16"/>
   <verse id="prov25_11"/>
 	<verse id="prov25_16"/>
@@ -95,6 +96,7 @@
   <verse id="gen1_11"/>
 	<verse id="gen1_12"/>
 	<verse id="gen1_14"/>
+  <verse id="gen15_16"/>
 
 	<verse id="eph4_23"/>
   <verse id="eph4_26"/>
@@ -220,7 +222,7 @@
 	
 
 	<verse id="io1_42"/>
-	
+  <verse id="Icor11_3"/>
   <verse id="Icor11_7"/>
   <verse id="Icor11_14"/>
   <verse id="Icor11_19"/>
@@ -1215,7 +1217,7 @@
 	<verse id="mal3_6"/>
 
 	<verse id="Itim6_16"/>
-
+  <verse id="Icor1_21"/>
 	<verse id="Icor1_24"/>
 
 	<verse id="is43_10"/>
@@ -1254,7 +1256,7 @@
 	<verse id="Iio4_11"/>
 
 	<verse id="Iio4_13"/>
-
+  <verse id="eph4_6"/>
 	<verse id="eph4_8"/>
 
 
@@ -1832,6 +1834,7 @@
   <verse id="mt10_14"/>
   <verse id="mt10_20"/>
   <verse id="mt10_28"/>
+  <verse id="mt10_29"/>
   <verse id="mt10_30"/>
   <verse id="mt10_39"/>
   <verse id="mt11_1"/>
@@ -2405,6 +2408,7 @@
   <verse id="IIcor13_4"/>
 
 	<verse id="IIcor5_14"/>
+  <verse id="IIcor5_18"/> 
   <verse id="IIcor5_19"/>
 
 
@@ -2536,6 +2540,7 @@
 
 	
   <verse id="Ireg10_10"/>
+  <verse id="Ireg12_15"/>
 	<verse id="IIreg23_24"/>
 
 	<verse id="io8_44"/>
@@ -2635,6 +2640,7 @@
 
 	<verse id="gal4_4"/>
   <verse id="hebr2_10"/>
+  <verse id="hebr2_11"/>
   <verse id="hebr2_14"/>
   <verse id="hebr2_15"/>
 	<verse id="hebr2_16"/>
@@ -2786,6 +2792,7 @@
   <verse id="prov14_23"/>
   <verse id="prov15_27"/>
 	<verse id="prov16_4"/>
+  <verse id="prov16_9"/>
   <verse id="prov17_11"/>
   <verse id="prov17_15"/>
   <verse id="prov17_22"/>
@@ -3094,6 +3101,9 @@
   <verse id="lc16_8"/>
   <verse id="lc12_47"/>
 	<verse id="lc16_25"/>
-	
+  
+  <verse id="Isam2_25"/>
+  <verse id="Isam10_26"/>
 	<verse id="IIsam7_3"/>
+  
 </bibleQuotesInUse>

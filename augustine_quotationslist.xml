@@ -17,17 +17,7 @@
   <text>
     <body>
        <list>
-          <item xml:id="AugDeTrin14_1-a"> <!-- better id is Augustine_deTrinitate_14_1_a -->
-             <quote type="Patristic">fides saluberrima gignitur defenditur et roboratur</quote>
-             <bibl type="deTrinitate">
-                <author ref="#Augustine">Augustine</author>
-                <title ref="#deTrinitate">de Trinitate</title>
-                <biblScope type="book">14</biblScope>
-                <biblScope type="chapter">1</biblScope>
-             </bibl>
-            <note type="source">http://scta.info/resource/adt-l14</note>
-          </item>
-          <item xml:id="Augustine_deTrinitate_14_1_3_b"> <!-- same quote as AugDeTrin14_1-a, but expanded -->
+          <item xml:id="Augustine_deTrinitate_14_1_3_b">
              <quote type="Patristic">"sed illud tantummodo quo fides saluberrima, quae ad veram beatitudinem ducit, gignitur, nutritur, defenditur, roboratur: qua scientia non pollent fideles plurimi, quamvis polleant ipsa fide plurimum.”</quote>
              <bibl type="deTrinitate">
                 <author ref="#Augustine">Augustine</author>

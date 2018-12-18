@@ -224,7 +224,17 @@ By Jacobus (Venetici.), --></note>
            <note type="firstIdentification"></note> 
            <note type="source">http://scta.info/resource/aristpoli-l1</note>
          </item>
-         
+         <!-- de sensu et sensato -->
+         <item xml:id="Aristotle_DeSen_a"> 
+           <quote>Color est extremitas perspicui in corpore terminato</quote> 
+           <bibl type="Aristotle_DeSen">
+             <author ref="#Aristotle">Aristoteles</author>
+             <title ref="#DeSen">De Sensu et Sensato</title>
+           </bibl>
+           <note type="citation">Aristoteles, De Sensu et Sansato, (xxx)</note>
+           <note type="firstIdentification">Holcot quodlibet q. 50</note> 
+           <note type="source">http://scta.info/resource/bnsd2d</note> <!-- need to create this; edf file is currently in drafts folder -->
+         </item>
        </list>
     </body>
   </text>

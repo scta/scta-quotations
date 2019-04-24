@@ -11,6 +11,8 @@
   <verse id="sir13_19"/>
   <verse id="sir39_40"/>
   
+  <verse id="lam1_1"/>
+  
   
   
   <verse id="qoh3_19"/>
@@ -277,6 +279,7 @@
 	<verse id="lc10_36"/>
 
   <verse id="is28_7"/>
+  <verse id="is28_19"/>
   <verse id="is29_11"/>
 	<verse id="is53_7"/>
   <verse id="is56_11"/>
@@ -398,6 +401,7 @@
 	
   <verse id="deut4_19"/>
   <verse id="deut5_13"/>
+  <verse id="deut6_4"/>
 	<verse id="deut15_17"/>
 
 	<verse id="ier31_31"/>
@@ -2253,6 +2257,7 @@
   <verse id="gal6_15"/>
 
   <verse id="ier1_5"/>
+  <verse id="ier11_15"/>
   <verse id="ier9_21"/>
   <verse id="ier10_23"/>
   <verse id="ier17_10"/>
@@ -2713,6 +2718,7 @@
   <verse id="ps44_8"/>
   <verse id="ps44_17"/>
   <verse id="ps48_13"/>
+  <verse id="ps48_21"/>
 
 	
 
@@ -3146,6 +3152,10 @@
   <verse id="gen1_28"/>
 	<verse id="gen1_6"/>
 	<verse id="gen1_7"/>
+  <verse id="gen3_1"/>
+  <verse id="gen3_2"/>
+  <verse id="gen3_3"/>
+  <verse id="gen3_4"/>
   <verse id="gen3_5"/>
   <verse id="gen3_11"/>
   <verse id="gen3_12"/>

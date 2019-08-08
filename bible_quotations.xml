@@ -191,7 +191,7 @@
 
 
 
-	<verse id="hebr11_1"/>
+	
 
 	
 
@@ -227,7 +227,7 @@
 
   
 
-	<verse id="hebr11_1"/>
+
 
 	<verse id="io15_22"/>
 
@@ -289,22 +289,20 @@
 
 	<verse id="act4_12"/>
 
-	<verse id="hebr10_4"/>
-  <verse id="hebr10_33"/>
+	
 
 	<verse id="Icor13_3"/>
   <verse id="Icor16_4"/>
 
 	<verse id="io15_15"/>
 
-	<verse id="hebr10_4"/>
+
 
 	
 
 	<verse id="io1_17"/>
 
-	<verse id="hebr9_13"/>
-  <verse id="hebr9_14"/>
+	
 
 	<verse id="gen4_3"/>
   <verse id="gen4_13"/>
@@ -368,21 +366,13 @@
 
 	<verse id="gal5_2"/>
   
-  <verse id="hebr6_1"/>
-	
-  <verse id="hebr10_1"/>
-  <verse id="hebr10_26"/>
-  <verse id="hebr10_28"/>
-  <verse id="hebr10_29"/>
+  
 
 	<verse id="gal4_9"/>
 
 	
   
-  <verse id="hebr7_7"/>
-  <verse id="hebr7_12"/>
-	<verse id="hebr7_18"/>
-  <verse id="hebr7_19"/>
+  
 
 	<verse id="gal2_11"/>
 
@@ -412,7 +402,7 @@
 
 	<verse id="ier31_32"/>
 
-	<verse id="hebr8_9"/>
+	
 
   
 	
@@ -884,7 +874,7 @@
 
 	<verse id="io1_1"/>
 
-	<verse id="hebr1_3"/>
+	
 
 
 
@@ -894,9 +884,7 @@
 
 
 
-	<verse id="hebr4_13"/>
-  <verse id="hebr4_14"/>
-  <verse id="hebr4_15"/>
+	
 
 
 
@@ -918,13 +906,7 @@
 
 	
 
-	<verse id="hebr17_28"/>
-
 	
-
-
-
-	<verse id="hebr4_13"/>
   
 
 	<verse id="io1_3"/>
@@ -1060,8 +1042,7 @@
 
 
 
-	<verse id="hebr11_33"/>
-  <verse id="hebr11_35"/>
+	
 
 	<verse id="Iio5_1"/>
 	<verse id="Iio5_17"/>
@@ -1090,10 +1071,7 @@
 
 	<verse id="ps146_5"/>
 
-	<verse id="hebr11_1"/>
-
-	<verse id="hebr11_3"/>
-  <verse id="hebr11_39"/>
+	
 
 	<verse id="gen1_1"/>
   <verse id="gen50_19"/>
@@ -1123,7 +1101,7 @@
   
 	<verse id="io1_1"/>
 
-	<verse id="hebr11_1"/>
+	
 
 	
   
@@ -1494,8 +1472,79 @@
 	<verse id="io14_28"/>
 
 
-  <verse id="hebr2_7"/>
+  <!--<verse id="hebr2_7"/>
 	<verse id="hebr2_9"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_3"/>
+  <verse id="hebr11_39"/>
+  <verse id="hebr11_33"/>
+  <verse id="hebr11_35"/>
+  <verse id="hebr17_28"/>
+  <verse id="hebr4_13"/>
+  <verse id="hebr4_14"/>
+  <verse id="hebr4_15"/>
+  <verse id="hebr1_3"/>
+  <verse id="hebr8_9"/>
+  <verse id="hebr7_7"/>
+  <verse id="hebr7_12"/>
+  <verse id="hebr7_18"/>
+  <verse id="hebr7_19"/>
+  <verse id="hebr6_1"/>
+  
+  <verse id="hebr10_1"/>
+  <verse id="hebr10_26"/>
+  <verse id="hebr10_28"/>
+  <verse id="hebr10_29"/>
+  <verse id="hebr9_13"/>
+  <verse id="hebr9_14"/>
+  <verse id="hebr10_4"/>
+  <verse id="hebr10_4"/>
+  <verse id="hebr10_33"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr4_13"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr13_4"/>
+  <verse id="hebr13_5"/>
+  <verse id="hebr13_17"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr7_26"/>
+  
+  <verse id="hebr1_7"/>
+  <verse id="hebr5_7"/>
+  <verse id="hebr5_1"/>
+  <verse id="hebr5_8"/>
+  <verse id="hebr2_9"/>
+  <verse id="hebr2_17"/>
+  <verse id="hebr1_3"/>
+  <verse id="hebr7_9"/>
+  <verse id="hebr7_25"/>
+  <verse id="hebr7_26"/>
+  <verse id="hebr11_6"/>
+  <verse id="hebr11_6"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr2_10"/>
+  <verse id="hebr2_11"/>
+  <verse id="hebr2_14"/>
+  <verse id="hebr2_15"/>
+  <verse id="hebr2_16"/>
+  <verse id="hebr1_2"/>
+  <verse id="hebr1_14"/>
+  <verse id="hebr1_3"/>
+  <verse id="hebr4_13"/>
+  <verse id="hebr11_6"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_33"/>
+  <verse id="hebr4_12"/>
+  <verse id="hebr11_6"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_6"/>
+  <verse id="hebr11_1"/>
+  <verse id="hebr11_6"/>
+  <verse id="hebr11_33"/>
+  <verse id="hebr11_1"/>-->
 
 	<verse id="io14_28"/>
 
@@ -2252,17 +2301,10 @@
 	<verse id="ps118_18"/>
   <verse id="ps118_72"/>
 
-	<verse id="hebr11_1"/>
-
-	<verse id="hebr11_6"/>
-
-	<verse id="hebr11_1"/>
-
-	<verse id="hebr11_6"/>
-
 	<verse id="Icor13_12"/>
 
-	<verse id="hebr11_6"/>
+	
+  
   <verse id="sir8_4"/>
   <verse id="sir8_13"/>
   <verse id="sir8_24"/>
@@ -2277,7 +2319,7 @@
 	<verse id="io6_60"/>
   <verse id="io6_64"/>
 
-	<verse id="hebr4_12"/>
+	
 
 	
 
@@ -2382,12 +2424,12 @@
 
 	<verse id="Icor13_2"/>
 
-	<verse id="hebr11_33"/>
+	
 
 	<verse id="Iio5_4"/>
   <verse id="Iio5_44"/>
 
-	<verse id="hebr11_33"/>
+	
 
 	
 
@@ -2405,11 +2447,11 @@
 
 	<verse id="act1_8"/>
 
-	<verse id="hebr11_1"/>
+	
 
 	<verse id="Icor13_13"/>
 
-	<verse id="hebr11_1"/>
+	
 
 	
 
@@ -2434,7 +2476,7 @@
   <verse id="io5_44"/>
 	<verse id="io5_46"/>
 
-	<verse id="hebr11_6"/>
+	
   
   <verse id="IIcor3_1"/>
 	<verse id="IIcor3_5"/>
@@ -2460,7 +2502,7 @@
 
 	<verse id="io14_2"/>
 
-	<verse id="hebr4_13"/>
+	
 
 	<verse id="io1_4"/>
 
@@ -2537,7 +2579,7 @@
   <verse id="col2_8"/>
 	<verse id="col2_9"/>
 
-	<verse id="hebr1_3"/>
+
 
 	
 
@@ -2697,8 +2739,7 @@
 
 	<verse id="io1_3"/>
 
-	<verse id="hebr1_2"/>
-	<verse id="hebr1_14"/>
+	
 
 
 
@@ -2746,11 +2787,7 @@
 	
 
 	<verse id="gal4_4"/>
-  <verse id="hebr2_10"/>
-  <verse id="hebr2_11"/>
-  <verse id="hebr2_14"/>
-  <verse id="hebr2_15"/>
-	<verse id="hebr2_16"/>
+  
 
 	<verse id="io1_3"/>
   <verse id="ps40_5"/>
@@ -2764,13 +2801,13 @@
 
 	<verse id="ro1_20"/>
 
-	<verse id="hebr11_1"/>
+
 
 	<verse id="IIcor12_2"/>
 
 	<verse id="IIcor12_4"/>
 
-	<verse id="hebr11_6"/>
+
   
   
 
@@ -2864,7 +2901,7 @@
 
 	<verse id="ps118_152"/>
 
-	<verse id="hebr11_6"/>
+
 
 	<verse id="iac2_26"/>
 
@@ -2943,9 +2980,7 @@
   <verse id="sap1_13"/>
 
 	
-  <verse id="hebr7_9"/>
-  <verse id="hebr7_25"/>
-	<verse id="hebr7_26"/>
+  
 
 	<verse id="io10_36"/>
 
@@ -3011,7 +3046,7 @@
 
 	<verse id="io14_28"/>
 
-	<verse id="hebr1_3"/>
+	
 
 	
 
@@ -3019,9 +3054,7 @@
 
 	<verse id="io8_55"/>
 
-	<verse id="hebr2_9"/>
-
-	<verse id="hebr2_17"/>
+	
 
 	<verse id="io1_14"/>
 
@@ -3050,8 +3083,7 @@
 
 	<verse id="ap13_32"/>
   
-  <verse id="hebr5_1"/>
-	<verse id="hebr5_8"/>
+  
 
 	<verse id="lc22_43"/>
 
@@ -3072,7 +3104,7 @@
 
 	<verse id="lc22_42"/>
 
-	<verse id="hebr5_7"/>
+	
 
 	<verse id="io11_42"/>
 
@@ -3115,9 +3147,8 @@
 
 	<verse id="act1_3"/>
 
-	<verse id="hebr7_26"/>
-
-	<verse id="hebr1_7"/>
+	
+  
   <verse id="eph2_2"/>
 	<verse id="eph2_6"/>
 
@@ -3125,7 +3156,7 @@
   <verse id="eph1_21"/>
   <verse id="eph1_22"/>
 
-	<verse id="hebr11_1"/>
+	
 
 	<verse id="is7_9"/>
 
@@ -3152,10 +3183,7 @@
 
 	
 
-	<verse id="hebr11_1"/>
-  <verse id="hebr13_4"/>
-  <verse id="hebr13_5"/>
-  <verse id="hebr13_17"/>
+
 
 	<verse id="io1_18"/>
 
@@ -3166,7 +3194,7 @@
   <verse id="Itim1_5"/>
 	<verse id="Itim1_13"/>
 
-	<verse id="hebr11_1"/>
+	
 
 	<verse id="io20_29"/>
 

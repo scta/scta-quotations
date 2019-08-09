@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bibleQuotesInUse>
-	<verse id="lc10_23"/>
+	<!--<verse id="lc10_23"/>
   <verse id="lc10_28"/>
   <verse id="sir3_1"/>
   <verse id="sir3_22"/>
@@ -210,9 +210,7 @@
 
 	
   
-  <verse id="mc3_28"/>
-  <verse id="mc3_33"/>
-	<verse id="mc16_16"/>
+  
 
 	<verse id="io3_2"/>
   <verse id="io3_29"/>
@@ -428,7 +426,7 @@
 
 	<verse id="iac5_14"/>
 
-	<verse id="mc6_13"/>
+  
 
 	
 	
@@ -638,7 +636,7 @@
 	<verse id="Icor15_10"/>
 
   
-  <!--<verse id="rom1_3"/>
+  <!-\-<verse id="rom1_3"/>
   <verse id="rom1_4"/>
   <verse id="rom1_9"/>
   <verse id="rom1_17"/>
@@ -838,7 +836,7 @@
   <verse id="rom4_17"/>
   <verse id="rom9_19"/>
   <verse id="rom9_19"/>
-  -->
+  -\->
 
 
 
@@ -1472,7 +1470,7 @@
 	<verse id="io14_28"/>
 
 
-  <!--<verse id="hebr2_7"/>
+  <!-\-<verse id="hebr2_7"/>
 	<verse id="hebr2_9"/>
   <verse id="hebr11_1"/>
   <verse id="hebr11_1"/>
@@ -1544,7 +1542,7 @@
   <verse id="hebr11_1"/>
   <verse id="hebr11_6"/>
   <verse id="hebr11_33"/>
-  <verse id="hebr11_1"/>-->
+  <verse id="hebr11_1"/>-\->
 
 	<verse id="io14_28"/>
 
@@ -1877,7 +1875,7 @@
 	<verse id="ps63_7"/>
   <verse id="ps63_8"/>
   
-  <!--<verse id="mt22_37"/>
+  <!-\-<verse id="mt22_37"/>
   <verse id="mt22_39"/>
   <verse id="mt1_2"/>
   <verse id="mt1_18"/>
@@ -2091,9 +2089,23 @@
   <verse id="mt28_10"/>
   <verse id="mt28_18"/>
   <verse id="mt28_19"/>
-  <verse id="mt28_20"/>-->
+  <verse id="mt28_20"/>-\->
   
-  
+  <!-\- 
+    <verse id="mc7_15"/>
+  <verse id="mc7_18"/>
+  <verse id="mc7_19"/>
+  <verse id="mc9_6"/>
+  <verse id="mc11_9"/>
+  <verse id="mc12_43"/>
+	<verse id="mc13_32"/>
+  <verse id="mc14_5"/>
+  <verse id="mc14_34"/>
+  <verse id="mc3_28"/>
+  <verse id="mc3_33"/>
+  <verse id="mc16_16"/>
+  <verse id="mc6_13"/>
+  -\->
 
  
 
@@ -3072,15 +3084,7 @@
 
 	<verse id="phil3_21"/>
   
-  <verse id="mc7_15"/>
-  <verse id="mc7_18"/>
-  <verse id="mc7_19"/>
-  <verse id="mc9_6"/>
-  <verse id="mc11_9"/>
-  <verse id="mc12_43"/>
-	<verse id="mc13_32"/>
-  <verse id="mc14_5"/>
-  <verse id="mc14_34"/>
+  
 
 	<verse id="ap13_32"/>
   
@@ -3255,6 +3259,6 @@
   
   <verse id="Isam2_25"/>
   <verse id="Isam10_26"/>
-	<verse id="IIsam7_3"/>
+	<verse id="IIsam7_3"/>-->
   
 </bibleQuotesInUse>
